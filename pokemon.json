@@ -1,0 +1,8782 @@
+{
+    "bulbasaur": {
+        "PS": 45,
+        "Atk": 49,
+        "Def": 49,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "ivysaur": {
+        "PS": 60,
+        "Atk": 62,
+        "Def": 63,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 60,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "venusaur": {
+        "PS": 80,
+        "Atk": 82,
+        "Def": 83,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 80,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "charmander": {
+        "PS": 39,
+        "Atk": 52,
+        "Def": 43,
+        "SpAtk": 60,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "charmeleon": {
+        "PS": 58,
+        "Atk": 64,
+        "Def": 58,
+        "SpAtk": 80,
+        "SpDef": 65,
+        "Spe": 80,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "charizard": {
+        "PS": 78,
+        "Atk": 84,
+        "Def": 78,
+        "SpAtk": 109,
+        "SpDef": 85,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "squirtle": {
+        "PS": 44,
+        "Atk": 48,
+        "Def": 65,
+        "SpAtk": 50,
+        "SpDef": 64,
+        "Spe": 43,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "wartortle": {
+        "PS": 59,
+        "Atk": 63,
+        "Def": 80,
+        "SpAtk": 65,
+        "SpDef": 80,
+        "Spe": 58,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "blastoise": {
+        "PS": 79,
+        "Atk": 83,
+        "Def": 100,
+        "SpAtk": 85,
+        "SpDef": 105,
+        "Spe": 78,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "caterpie": {
+        "PS": 45,
+        "Atk": 30,
+        "Def": 35,
+        "SpAtk": 20,
+        "SpDef": 20,
+        "Spe": 45,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "metapod": {
+        "PS": 50,
+        "Atk": 20,
+        "Def": 55,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 30,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "butterfree": {
+        "PS": 60,
+        "Atk": 45,
+        "Def": 50,
+        "SpAtk": 90,
+        "SpDef": 80,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "weedle": {
+        "PS": 40,
+        "Atk": 35,
+        "Def": 30,
+        "SpAtk": 20,
+        "SpDef": 20,
+        "Spe": 50,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "kakuna": {
+        "PS": 45,
+        "Atk": 25,
+        "Def": 50,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 35,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "beedrill": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 40,
+        "SpAtk": 45,
+        "SpDef": 80,
+        "Spe": 75,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "pidgey": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 40,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 56,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "pidgeotto": {
+        "PS": 63,
+        "Atk": 60,
+        "Def": 55,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 71,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "pidgeot": {
+        "PS": 83,
+        "Atk": 80,
+        "Def": 75,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Spe": 101,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "rattata": {
+        "PS": 30,
+        "Atk": 56,
+        "Def": 35,
+        "SpAtk": 25,
+        "SpDef": 35,
+        "Spe": 72,
+        "type1": "Normale",
+        "type2": null
+    },
+    "raticate": {
+        "PS": 55,
+        "Atk": 81,
+        "Def": 60,
+        "SpAtk": 50,
+        "SpDef": 70,
+        "Spe": 97,
+        "type1": "Normale",
+        "type2": null
+    },
+    "spearow": {
+        "PS": 40,
+        "Atk": 60,
+        "Def": 30,
+        "SpAtk": 31,
+        "SpDef": 31,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "fearow": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 65,
+        "SpAtk": 61,
+        "SpDef": 61,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "ekans": {
+        "PS": 35,
+        "Atk": 60,
+        "Def": 44,
+        "SpAtk": 40,
+        "SpDef": 54,
+        "Spe": 55,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "arbok": {
+        "PS": 60,
+        "Atk": 95,
+        "Def": 69,
+        "SpAtk": 65,
+        "SpDef": 79,
+        "Spe": 80,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "pikachu": {
+        "PS": 35,
+        "Atk": 55,
+        "Def": 40,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 90,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "raichu": {
+        "PS": 60,
+        "Atk": 90,
+        "Def": 55,
+        "SpAtk": 90,
+        "SpDef": 80,
+        "Spe": 110,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "sandshrew": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 85,
+        "SpAtk": 20,
+        "SpDef": 30,
+        "Spe": 40,
+        "type1": "Terra",
+        "type2": null
+    },
+    "sandslash": {
+        "PS": 75,
+        "Atk": 100,
+        "Def": 110,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 65,
+        "type1": "Terra",
+        "type2": null
+    },
+    "nidoran": {
+        "PS": 46,
+        "Atk": 57,
+        "Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 50,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "nidorina": {
+        "PS": 70,
+        "Atk": 62,
+        "Def": 67,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 56,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "nidoqueen": {
+        "PS": 90,
+        "Atk": 92,
+        "Def": 87,
+        "SpAtk": 75,
+        "SpDef": 85,
+        "Spe": 76,
+        "type1": "Terra",
+        "type2": "Veleno"
+    },
+    "nidorino": {
+        "PS": 61,
+        "Atk": 72,
+        "Def": 57,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 65,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "nidoking": {
+        "PS": 81,
+        "Atk": 102,
+        "Def": 77,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 85,
+        "type1": "Terra",
+        "type2": "Veleno"
+    },
+    "clefairy": {
+        "PS": 70,
+        "Atk": 45,
+        "Def": 48,
+        "SpAtk": 60,
+        "SpDef": 65,
+        "Spe": 35,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "clefable": {
+        "PS": 95,
+        "Atk": 70,
+        "Def": 73,
+        "SpAtk": 95,
+        "SpDef": 90,
+        "Spe": 60,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "vulpix": {
+        "PS": 38,
+        "Atk": 41,
+        "Def": 40,
+        "SpAtk": 50,
+        "SpDef": 65,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "ninetales": {
+        "PS": 73,
+        "Atk": 76,
+        "Def": 75,
+        "SpAtk": 81,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "jigglypuff": {
+        "PS": 115,
+        "Atk": 45,
+        "Def": 20,
+        "SpAtk": 45,
+        "SpDef": 25,
+        "Spe": 20,
+        "type1": "Folletto",
+        "type2": "Normale"
+    },
+    "wigglytuff": {
+        "PS": 140,
+        "Atk": 70,
+        "Def": 45,
+        "SpAtk": 85,
+        "SpDef": 50,
+        "Spe": 45,
+        "type1": "Folletto",
+        "type2": "Normale"
+    },
+    "zubat": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 35,
+        "SpAtk": 30,
+        "SpDef": 40,
+        "Spe": 55,
+        "type1": "Volante",
+        "type2": "Veleno"
+    },
+    "golbat": {
+        "PS": 75,
+        "Atk": 80,
+        "Def": 70,
+        "SpAtk": 65,
+        "SpDef": 75,
+        "Spe": 90,
+        "type1": "Volante",
+        "type2": "Veleno"
+    },
+    "oddish": {
+        "PS": 45,
+        "Atk": 50,
+        "Def": 55,
+        "SpAtk": 75,
+        "SpDef": 65,
+        "Spe": 30,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "gloom": {
+        "PS": 60,
+        "Atk": 65,
+        "Def": 70,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 40,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "vileplume": {
+        "PS": 75,
+        "Atk": 80,
+        "Def": 85,
+        "SpAtk": 110,
+        "SpDef": 90,
+        "Spe": 50,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "paras": {
+        "PS": 35,
+        "Atk": 70,
+        "Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 25,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "parasect": {
+        "PS": 60,
+        "Atk": 95,
+        "Def": 80,
+        "SpAtk": 60,
+        "SpDef": 80,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "venonat": {
+        "PS": 60,
+        "Atk": 55,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 55,
+        "Spe": 45,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "venomoth": {
+        "PS": 70,
+        "Atk": 65,
+        "Def": 60,
+        "SpAtk": 90,
+        "SpDef": 75,
+        "Spe": 90,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "diglett": {
+        "PS": 10,
+        "Atk": 55,
+        "Def": 25,
+        "SpAtk": 35,
+        "SpDef": 45,
+        "Spe": 95,
+        "type1": "Terra",
+        "type2": null
+    },
+    "dugtrio": {
+        "PS": 35,
+        "Atk": 100,
+        "Def": 50,
+        "SpAtk": 50,
+        "SpDef": 70,
+        "Spe": 120,
+        "type1": "Terra",
+        "type2": null
+    },
+    "meowth": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 35,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "persian": {
+        "PS": 65,
+        "Atk": 70,
+        "Def": 60,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 115,
+        "type1": "Normale",
+        "type2": null
+    },
+    "psyduck": {
+        "PS": 50,
+        "Atk": 52,
+        "Def": 48,
+        "SpAtk": 65,
+        "SpDef": 50,
+        "Spe": 55,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "golduck": {
+        "PS": 80,
+        "Atk": 82,
+        "Def": 78,
+        "SpAtk": 95,
+        "SpDef": 80,
+        "Spe": 85,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "mankey": {
+        "PS": 40,
+        "Atk": 80,
+        "Def": 35,
+        "SpAtk": 35,
+        "SpDef": 45,
+        "Spe": 70,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "primeape": {
+        "PS": 65,
+        "Atk": 105,
+        "Def": 60,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 95,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "growlithe": {
+        "PS": 55,
+        "Atk": 70,
+        "Def": 45,
+        "SpAtk": 70,
+        "SpDef": 50,
+        "Spe": 60,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "arcanine": {
+        "PS": 90,
+        "Atk": 110,
+        "Def": 80,
+        "SpAtk": 100,
+        "SpDef": 80,
+        "Spe": 95,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "poliwag": {
+        "PS": 40,
+        "Atk": 50,
+        "Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 90,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "poliwhirl": {
+        "PS": 65,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 90,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "poliwrath": {
+        "PS": 90,
+        "Atk": 95,
+        "Def": 95,
+        "SpAtk": 70,
+        "SpDef": 90,
+        "Spe": 70,
+        "type1": "Lotta",
+        "type2": "Acqua"
+    },
+    "abra": {
+        "PS": 25,
+        "Atk": 20,
+        "Def": 15,
+        "SpAtk": 105,
+        "SpDef": 55,
+        "Spe": 90,
+        "type1": "Psico",
+        "type2": null
+    },
+    "kadabra": {
+        "PS": 40,
+        "Atk": 35,
+        "Def": 30,
+        "SpAtk": 120,
+        "SpDef": 70,
+        "Spe": 105,
+        "type1": "Psico",
+        "type2": null
+    },
+    "alakazam": {
+        "PS": 55,
+        "Atk": 50,
+        "Def": 45,
+        "SpAtk": 135,
+        "SpDef": 95,
+        "Spe": 120,
+        "type1": "Psico",
+        "type2": null
+    },
+    "machop": {
+        "PS": 70,
+        "Atk": 80,
+        "Def": 50,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 35,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "machoke": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 50,
+        "SpDef": 60,
+        "Spe": 45,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "machamp": {
+        "PS": 90,
+        "Atk": 130,
+        "Def": 80,
+        "SpAtk": 65,
+        "SpDef": 85,
+        "Spe": 55,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "bellsprout": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 35,
+        "SpAtk": 70,
+        "SpDef": 30,
+        "Spe": 40,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "weepinbell": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 50,
+        "SpAtk": 85,
+        "SpDef": 45,
+        "Spe": 55,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "victreebel": {
+        "PS": 80,
+        "Atk": 105,
+        "Def": 65,
+        "SpAtk": 100,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "tentacool": {
+        "PS": 40,
+        "Atk": 40,
+        "Def": 35,
+        "SpAtk": 50,
+        "SpDef": 100,
+        "Spe": 70,
+        "type1": "Veleno",
+        "type2": "Acqua"
+    },
+    "tentacruel": {
+        "PS": 80,
+        "Atk": 70,
+        "Def": 65,
+        "SpAtk": 80,
+        "SpDef": 120,
+        "Spe": 100,
+        "type1": "Veleno",
+        "type2": "Acqua"
+    },
+    "geodude": {
+        "PS": 40,
+        "Atk": 80,
+        "Def": 100,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 20,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "graveler": {
+        "PS": 55,
+        "Atk": 95,
+        "Def": 115,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "golem": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 130,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "ponyta": {
+        "PS": 50,
+        "Atk": 85,
+        "Def": 55,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 90,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "rapidash": {
+        "PS": 65,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 105,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "slowpoke": {
+        "PS": 90,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 15,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "slowbro": {
+        "PS": 95,
+        "Atk": 75,
+        "Def": 110,
+        "SpAtk": 100,
+        "SpDef": 80,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "magnemite": {
+        "PS": 25,
+        "Atk": 35,
+        "Def": 70,
+        "SpAtk": 95,
+        "SpDef": 55,
+        "Spe": 45,
+        "type1": "Acciaio",
+        "type2": "Elettro"
+    },
+    "magneton": {
+        "PS": 50,
+        "Atk": 60,
+        "Def": 95,
+        "SpAtk": 120,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Acciaio",
+        "type2": "Elettro"
+    },
+    "farfetchd": {
+        "PS": 52,
+        "Atk": 90,
+        "Def": 55,
+        "SpAtk": 58,
+        "SpDef": 62,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "doduo": {
+        "PS": 35,
+        "Atk": 85,
+        "Def": 45,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 75,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "dodrio": {
+        "PS": 60,
+        "Atk": 110,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 110,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "seel": {
+        "PS": 65,
+        "Atk": 45,
+        "Def": 55,
+        "SpAtk": 45,
+        "SpDef": 70,
+        "Spe": 45,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "dewgong": {
+        "PS": 90,
+        "Atk": 70,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 95,
+        "Spe": 70,
+        "type1": "Ghiaccio",
+        "type2": "Acqua"
+    },
+    "grimer": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 25,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "muk": {
+        "PS": 105,
+        "Atk": 105,
+        "Def": 75,
+        "SpAtk": 65,
+        "SpDef": 100,
+        "Spe": 50,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "shellder": {
+        "PS": 30,
+        "Atk": 65,
+        "Def": 100,
+        "SpAtk": 45,
+        "SpDef": 25,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "cloyster": {
+        "PS": 50,
+        "Atk": 95,
+        "Def": 180,
+        "SpAtk": 85,
+        "SpDef": 45,
+        "Spe": 70,
+        "type1": "Ghiaccio",
+        "type2": "Acqua"
+    },
+    "gastly": {
+        "PS": 30,
+        "Atk": 35,
+        "Def": 30,
+        "SpAtk": 100,
+        "SpDef": 35,
+        "Spe": 80,
+        "type1": "Veleno",
+        "type2": "Spettro"
+    },
+    "haunter": {
+        "PS": 45,
+        "Atk": 50,
+        "Def": 45,
+        "SpAtk": 115,
+        "SpDef": 55,
+        "Spe": 95,
+        "type1": "Veleno",
+        "type2": "Spettro"
+    },
+    "gengar": {
+        "PS": 60,
+        "Atk": 65,
+        "Def": 60,
+        "SpAtk": 130,
+        "SpDef": 75,
+        "Spe": 110,
+        "type1": "Veleno",
+        "type2": "Spettro"
+    },
+    "onix": {
+        "PS": 35,
+        "Atk": 45,
+        "Def": 160,
+        "SpAtk": 30,
+        "SpDef": 45,
+        "Spe": 70,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "drowzee": {
+        "PS": 60,
+        "Atk": 48,
+        "Def": 45,
+        "SpAtk": 43,
+        "SpDef": 90,
+        "Spe": 42,
+        "type1": "Psico",
+        "type2": null
+    },
+    "hypno": {
+        "PS": 85,
+        "Atk": 73,
+        "Def": 70,
+        "SpAtk": 73,
+        "SpDef": 115,
+        "Spe": 67,
+        "type1": "Psico",
+        "type2": null
+    },
+    "krabby": {
+        "PS": 30,
+        "Atk": 105,
+        "Def": 90,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 50,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "kingler": {
+        "PS": 55,
+        "Atk": 130,
+        "Def": 115,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 75,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "voltorb": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 50,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 100,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "electrode": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 70,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 150,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "exeggcute": {
+        "PS": 60,
+        "Atk": 40,
+        "Def": 80,
+        "SpAtk": 60,
+        "SpDef": 45,
+        "Spe": 40,
+        "type1": "Psico",
+        "type2": "Erba"
+    },
+    "exeggutor": {
+        "PS": 95,
+        "Atk": 95,
+        "Def": 85,
+        "SpAtk": 125,
+        "SpDef": 75,
+        "Spe": 55,
+        "type1": "Psico",
+        "type2": "Erba"
+    },
+    "cubone": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 95,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": null
+    },
+    "marowak": {
+        "PS": 60,
+        "Atk": 80,
+        "Def": 110,
+        "SpAtk": 50,
+        "SpDef": 80,
+        "Spe": 45,
+        "type1": "Terra",
+        "type2": null
+    },
+    "hitmonlee": {
+        "PS": 50,
+        "Atk": 120,
+        "Def": 53,
+        "SpAtk": 35,
+        "SpDef": 110,
+        "Spe": 87,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "hitmonchan": {
+        "PS": 50,
+        "Atk": 105,
+        "Def": 79,
+        "SpAtk": 35,
+        "SpDef": 110,
+        "Spe": 76,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "lickitung": {
+        "PS": 90,
+        "Atk": 55,
+        "Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Spe": 30,
+        "type1": "Normale",
+        "type2": null
+    },
+    "koffing": {
+        "PS": 40,
+        "Atk": 65,
+        "Def": 95,
+        "SpAtk": 60,
+        "SpDef": 45,
+        "Spe": 35,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "weezing": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 120,
+        "SpAtk": 85,
+        "SpDef": 70,
+        "Spe": 60,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "rhyhorn": {
+        "PS": 80,
+        "Atk": 85,
+        "Def": 95,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 25,
+        "type1": "Roccia",
+        "type2": "Terra"
+    },
+    "rhydon": {
+        "PS": 105,
+        "Atk": 130,
+        "Def": 120,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 40,
+        "type1": "Roccia",
+        "type2": "Terra"
+    },
+    "chansey": {
+        "PS": 250,
+        "Atk": 5,
+        "Def": 5,
+        "SpAtk": 35,
+        "SpDef": 105,
+        "Spe": 50,
+        "type1": "Normale",
+        "type2": null
+    },
+    "tangela": {
+        "PS": 65,
+        "Atk": 55,
+        "Def": 115,
+        "SpAtk": 100,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Erba",
+        "type2": null
+    },
+    "kangaskhan": {
+        "PS": 105,
+        "Atk": 95,
+        "Def": 80,
+        "SpAtk": 40,
+        "SpDef": 80,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "horsea": {
+        "PS": 30,
+        "Atk": 40,
+        "Def": 70,
+        "SpAtk": 70,
+        "SpDef": 25,
+        "Spe": 60,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "seadra": {
+        "PS": 55,
+        "Atk": 65,
+        "Def": 95,
+        "SpAtk": 95,
+        "SpDef": 45,
+        "Spe": 85,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "goldeen": {
+        "PS": 45,
+        "Atk": 67,
+        "Def": 60,
+        "SpAtk": 35,
+        "SpDef": 50,
+        "Spe": 63,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "seaking": {
+        "PS": 80,
+        "Atk": 92,
+        "Def": 65,
+        "SpAtk": 65,
+        "SpDef": 80,
+        "Spe": 68,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "staryu": {
+        "PS": 30,
+        "Atk": 45,
+        "Def": 55,
+        "SpAtk": 70,
+        "SpDef": 55,
+        "Spe": 85,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "starmie": {
+        "PS": 60,
+        "Atk": 75,
+        "Def": 85,
+        "SpAtk": 100,
+        "SpDef": 85,
+        "Spe": 115,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "mr mime": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 65,
+        "SpAtk": 100,
+        "SpDef": 120,
+        "Spe": 90,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "scyther": {
+        "PS": 70,
+        "Atk": 110,
+        "Def": 80,
+        "SpAtk": 55,
+        "SpDef": 80,
+        "Spe": 105,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "jynx": {
+        "PS": 65,
+        "Atk": 50,
+        "Def": 35,
+        "SpAtk": 115,
+        "SpDef": 95,
+        "Spe": 95,
+        "type1": "Psico",
+        "type2": "Ghiaccio"
+    },
+    "electabuzz": {
+        "PS": 65,
+        "Atk": 83,
+        "Def": 57,
+        "SpAtk": 95,
+        "SpDef": 85,
+        "Spe": 105,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "magmar": {
+        "PS": 65,
+        "Atk": 95,
+        "Def": 57,
+        "SpAtk": 100,
+        "SpDef": 85,
+        "Spe": 93,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "pinsir": {
+        "PS": 65,
+        "Atk": 125,
+        "Def": 100,
+        "SpAtk": 55,
+        "SpDef": 70,
+        "Spe": 85,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "tauros": {
+        "PS": 75,
+        "Atk": 100,
+        "Def": 95,
+        "SpAtk": 40,
+        "SpDef": 70,
+        "Spe": 110,
+        "type1": "Normale",
+        "type2": null
+    },
+    "magikarp": {
+        "PS": 20,
+        "Atk": 10,
+        "Def": 55,
+        "SpAtk": 15,
+        "SpDef": 20,
+        "Spe": 80,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "gyarados": {
+        "PS": 95,
+        "Atk": 125,
+        "Def": 79,
+        "SpAtk": 60,
+        "SpDef": 100,
+        "Spe": 81,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "lapras": {
+        "PS": 130,
+        "Atk": 85,
+        "Def": 80,
+        "SpAtk": 85,
+        "SpDef": 95,
+        "Spe": 60,
+        "type1": "Ghiaccio",
+        "type2": "Acqua"
+    },
+    "ditto": {
+        "PS": 48,
+        "Atk": 48,
+        "Def": 48,
+        "SpAtk": 48,
+        "SpDef": 48,
+        "Spe": 48,
+        "type1": "Normale",
+        "type2": null
+    },
+    "eevee": {
+        "PS": 55,
+        "Atk": 55,
+        "Def": 50,
+        "SpAtk": 45,
+        "SpDef": 65,
+        "Spe": 55,
+        "type1": "Normale",
+        "type2": null
+    },
+    "vaporeon": {
+        "PS": 130,
+        "Atk": 65,
+        "Def": 60,
+        "SpAtk": 110,
+        "SpDef": 95,
+        "Spe": 65,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "jolteon": {
+        "PS": 65,
+        "Atk": 65,
+        "Def": 60,
+        "SpAtk": 110,
+        "SpDef": 95,
+        "Spe": 130,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "flareon": {
+        "PS": 65,
+        "Atk": 130,
+        "Def": 60,
+        "SpAtk": 95,
+        "SpDef": 110,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "porygon": {
+        "PS": 65,
+        "Atk": 60,
+        "Def": 70,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 40,
+        "type1": "Normale",
+        "type2": null
+    },
+    "omanyte": {
+        "PS": 35,
+        "Atk": 40,
+        "Def": 100,
+        "SpAtk": 90,
+        "SpDef": 55,
+        "Spe": 35,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "omastar": {
+        "PS": 70,
+        "Atk": 60,
+        "Def": 125,
+        "SpAtk": 115,
+        "SpDef": 70,
+        "Spe": 55,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "kabuto": {
+        "PS": 30,
+        "Atk": 80,
+        "Def": 90,
+        "SpAtk": 55,
+        "SpDef": 45,
+        "Spe": 55,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "kabutops": {
+        "PS": 60,
+        "Atk": 115,
+        "Def": 105,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Spe": 80,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "aerodactyl": {
+        "PS": 80,
+        "Atk": 105,
+        "Def": 65,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Spe": 130,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "snorlax": {
+        "PS": 160,
+        "Atk": 110,
+        "Def": 65,
+        "SpAtk": 65,
+        "SpDef": 110,
+        "Spe": 30,
+        "type1": "Normale",
+        "type2": null
+    },
+    "articuno": {
+        "PS": 90,
+        "Atk": 85,
+        "Def": 100,
+        "SpAtk": 95,
+        "SpDef": 125,
+        "Spe": 85,
+        "type1": "Volante",
+        "type2": "Ghiaccio"
+    },
+    "zapdos": {
+        "PS": 90,
+        "Atk": 90,
+        "Def": 85,
+        "SpAtk": 125,
+        "SpDef": 90,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Elettro"
+    },
+    "moltres": {
+        "PS": 90,
+        "Atk": 100,
+        "Def": 90,
+        "SpAtk": 125,
+        "SpDef": 85,
+        "Spe": 90,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "dratini": {
+        "PS": 41,
+        "Atk": 64,
+        "Def": 45,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 50,
+        "type1": "Drago",
+        "type2": null
+    },
+    "dragonair": {
+        "PS": 61,
+        "Atk": 84,
+        "Def": 65,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Drago",
+        "type2": null
+    },
+    "dragonite": {
+        "PS": 91,
+        "Atk": 134,
+        "Def": 95,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "mewtwo": {
+        "PS": 106,
+        "Atk": 110,
+        "Def": 90,
+        "SpAtk": 154,
+        "SpDef": 90,
+        "Spe": 130,
+        "type1": "Psico",
+        "type2": null
+    },
+    "mew": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Psico",
+        "type2": null
+    },
+    "chikorita": {
+        "PS": 45,
+        "Atk": 49,
+        "Def": 65,
+        "SpAtk": 49,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Erba",
+        "type2": null
+    },
+    "bayleef": {
+        "PS": 60,
+        "Atk": 62,
+        "Def": 80,
+        "SpAtk": 63,
+        "SpDef": 80,
+        "Spe": 60,
+        "type1": "Erba",
+        "type2": null
+    },
+    "meganium": {
+        "PS": 80,
+        "Atk": 82,
+        "Def": 100,
+        "SpAtk": 83,
+        "SpDef": 100,
+        "Spe": 80,
+        "type1": "Erba",
+        "type2": null
+    },
+    "cyndaquil": {
+        "PS": 39,
+        "Atk": 52,
+        "Def": 43,
+        "SpAtk": 60,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "quilava": {
+        "PS": 58,
+        "Atk": 64,
+        "Def": 58,
+        "SpAtk": 80,
+        "SpDef": 65,
+        "Spe": 80,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "typhlosion": {
+        "PS": 78,
+        "Atk": 84,
+        "Def": 78,
+        "SpAtk": 109,
+        "SpDef": 85,
+        "Spe": 100,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "totodile": {
+        "PS": 50,
+        "Atk": 65,
+        "Def": 64,
+        "SpAtk": 44,
+        "SpDef": 48,
+        "Spe": 43,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "croconaw": {
+        "PS": 65,
+        "Atk": 80,
+        "Def": 80,
+        "SpAtk": 59,
+        "SpDef": 63,
+        "Spe": 58,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "feraligatr": {
+        "PS": 85,
+        "Atk": 105,
+        "Def": 100,
+        "SpAtk": 79,
+        "SpDef": 83,
+        "Spe": 78,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "sentret": {
+        "PS": 35,
+        "Atk": 46,
+        "Def": 34,
+        "SpAtk": 35,
+        "SpDef": 45,
+        "Spe": 20,
+        "type1": "Normale",
+        "type2": null
+    },
+    "furret": {
+        "PS": 85,
+        "Atk": 76,
+        "Def": 64,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "hoothoot": {
+        "PS": 60,
+        "Atk": 30,
+        "Def": 30,
+        "SpAtk": 36,
+        "SpDef": 56,
+        "Spe": 50,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "noctowl": {
+        "PS": 100,
+        "Atk": 50,
+        "Def": 50,
+        "SpAtk": 86,
+        "SpDef": 96,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "ledyba": {
+        "PS": 40,
+        "Atk": 20,
+        "Def": 30,
+        "SpAtk": 40,
+        "SpDef": 80,
+        "Spe": 55,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "ledian": {
+        "PS": 55,
+        "Atk": 35,
+        "Def": 50,
+        "SpAtk": 55,
+        "SpDef": 110,
+        "Spe": 85,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "spinarak": {
+        "PS": 40,
+        "Atk": 60,
+        "Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 30,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "ariados": {
+        "PS": 70,
+        "Atk": 90,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 40,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "crobat": {
+        "PS": 85,
+        "Atk": 90,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Spe": 130,
+        "type1": "Volante",
+        "type2": "Veleno"
+    },
+    "chinchou": {
+        "PS": 75,
+        "Atk": 38,
+        "Def": 38,
+        "SpAtk": 56,
+        "SpDef": 56,
+        "Spe": 67,
+        "type1": "Elettro",
+        "type2": "Acqua"
+    },
+    "lanturn": {
+        "PS": 125,
+        "Atk": 58,
+        "Def": 58,
+        "SpAtk": 76,
+        "SpDef": 76,
+        "Spe": 67,
+        "type1": "Elettro",
+        "type2": "Acqua"
+    },
+    "pichu": {
+        "PS": 20,
+        "Atk": 40,
+        "Def": 15,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 60,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "cleffa": {
+        "PS": 50,
+        "Atk": 25,
+        "Def": 28,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 15,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "igglybuff": {
+        "PS": 90,
+        "Atk": 30,
+        "Def": 15,
+        "SpAtk": 40,
+        "SpDef": 20,
+        "Spe": 15,
+        "type1": "Folletto",
+        "type2": "Normale"
+    },
+    "togepi": {
+        "PS": 35,
+        "Atk": 20,
+        "Def": 65,
+        "SpAtk": 40,
+        "SpDef": 65,
+        "Spe": 20,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "togetic": {
+        "PS": 55,
+        "Atk": 40,
+        "Def": 85,
+        "SpAtk": 80,
+        "SpDef": 105,
+        "Spe": 40,
+        "type1": "Volante",
+        "type2": "Folletto"
+    },
+    "natu": {
+        "PS": 40,
+        "Atk": 50,
+        "Def": 45,
+        "SpAtk": 70,
+        "SpDef": 45,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "xatu": {
+        "PS": 65,
+        "Atk": 75,
+        "Def": 70,
+        "SpAtk": 95,
+        "SpDef": 70,
+        "Spe": 95,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "mareep": {
+        "PS": 55,
+        "Atk": 40,
+        "Def": 40,
+        "SpAtk": 65,
+        "SpDef": 45,
+        "Spe": 35,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "flaaffy": {
+        "PS": 70,
+        "Atk": 55,
+        "Def": 55,
+        "SpAtk": 80,
+        "SpDef": 60,
+        "Spe": 45,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "ampharos": {
+        "PS": 90,
+        "Atk": 75,
+        "Def": 85,
+        "SpAtk": 115,
+        "SpDef": 90,
+        "Spe": 55,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "bellossom": {
+        "PS": 75,
+        "Atk": 80,
+        "Def": 95,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Spe": 50,
+        "type1": "Erba",
+        "type2": null
+    },
+    "marill": {
+        "PS": 70,
+        "Atk": 20,
+        "Def": 50,
+        "SpAtk": 20,
+        "SpDef": 50,
+        "Spe": 40,
+        "type1": "Folletto",
+        "type2": "Acqua"
+    },
+    "azumarill": {
+        "PS": 100,
+        "Atk": 50,
+        "Def": 80,
+        "SpAtk": 60,
+        "SpDef": 80,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Acqua"
+    },
+    "sudowoodo": {
+        "PS": 70,
+        "Atk": 100,
+        "Def": 115,
+        "SpAtk": 30,
+        "SpDef": 65,
+        "Spe": 30,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "politoed": {
+        "PS": 90,
+        "Atk": 75,
+        "Def": 75,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Spe": 70,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "hoppip": {
+        "PS": 35,
+        "Atk": 35,
+        "Def": 40,
+        "SpAtk": 35,
+        "SpDef": 55,
+        "Spe": 50,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "skiploom": {
+        "PS": 55,
+        "Atk": 45,
+        "Def": 50,
+        "SpAtk": 45,
+        "SpDef": 65,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "jumpluff": {
+        "PS": 75,
+        "Atk": 55,
+        "Def": 70,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Spe": 110,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "aipom": {
+        "PS": 55,
+        "Atk": 70,
+        "Def": 55,
+        "SpAtk": 40,
+        "SpDef": 55,
+        "Spe": 85,
+        "type1": "Normale",
+        "type2": null
+    },
+    "sunkern": {
+        "PS": 30,
+        "Atk": 30,
+        "Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": null
+    },
+    "sunflora": {
+        "PS": 75,
+        "Atk": 75,
+        "Def": 55,
+        "SpAtk": 105,
+        "SpDef": 85,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": null
+    },
+    "yanma": {
+        "PS": 65,
+        "Atk": 65,
+        "Def": 45,
+        "SpAtk": 75,
+        "SpDef": 45,
+        "Spe": 95,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "wooper": {
+        "PS": 55,
+        "Atk": 45,
+        "Def": 45,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 15,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "quagsire": {
+        "PS": 95,
+        "Atk": 85,
+        "Def": 85,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "espeon": {
+        "PS": 65,
+        "Atk": 65,
+        "Def": 60,
+        "SpAtk": 130,
+        "SpDef": 95,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": null
+    },
+    "umbreon": {
+        "PS": 95,
+        "Atk": 65,
+        "Def": 110,
+        "SpAtk": 60,
+        "SpDef": 130,
+        "Spe": 65,
+        "type1": "Buio",
+        "type2": null
+    },
+    "murkrow": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 42,
+        "SpAtk": 85,
+        "SpDef": 42,
+        "Spe": 91,
+        "type1": "Volante",
+        "type2": "Buio"
+    },
+    "slowking": {
+        "PS": 95,
+        "Atk": 75,
+        "Def": 80,
+        "SpAtk": 100,
+        "SpDef": 110,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "misdreavus": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 85,
+        "SpDef": 85,
+        "Spe": 85,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "unown": {
+        "PS": 48,
+        "Atk": 72,
+        "Def": 48,
+        "SpAtk": 72,
+        "SpDef": 48,
+        "Spe": 48,
+        "type1": "Psico",
+        "type2": null
+    },
+    "wobbuffet": {
+        "PS": 190,
+        "Atk": 33,
+        "Def": 58,
+        "SpAtk": 33,
+        "SpDef": 58,
+        "Spe": 33,
+        "type1": "Psico",
+        "type2": null
+    },
+    "girafarig": {
+        "PS": 70,
+        "Atk": 80,
+        "Def": 65,
+        "SpAtk": 90,
+        "SpDef": 65,
+        "Spe": 85,
+        "type1": "Psico",
+        "type2": "Normale"
+    },
+    "pineco": {
+        "PS": 50,
+        "Atk": 65,
+        "Def": 90,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 15,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "forretress": {
+        "PS": 75,
+        "Atk": 90,
+        "Def": 140,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 40,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "dunsparce": {
+        "PS": 100,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Normale",
+        "type2": null
+    },
+    "gligar": {
+        "PS": 65,
+        "Atk": 75,
+        "Def": 105,
+        "SpAtk": 35,
+        "SpDef": 65,
+        "Spe": 85,
+        "type1": "Volante",
+        "type2": "Terra"
+    },
+    "steelix": {
+        "PS": 75,
+        "Atk": 85,
+        "Def": 200,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 30,
+        "type1": "Terra",
+        "type2": "Acciaio"
+    },
+    "snubbull": {
+        "PS": 60,
+        "Atk": 80,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 30,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "granbull": {
+        "PS": 90,
+        "Atk": 120,
+        "Def": 75,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 45,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "qwilfish": {
+        "PS": 65,
+        "Atk": 95,
+        "Def": 85,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 85,
+        "type1": "Veleno",
+        "type2": "Acqua"
+    },
+    "scizor": {
+        "PS": 70,
+        "Atk": 130,
+        "Def": 100,
+        "SpAtk": 55,
+        "SpDef": 80,
+        "Spe": 65,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "shuckle": {
+        "PS": 20,
+        "Atk": 10,
+        "Def": 230,
+        "SpAtk": 10,
+        "SpDef": 230,
+        "Spe": 5,
+        "type1": "Roccia",
+        "type2": "Coleottero"
+    },
+    "heracross": {
+        "PS": 80,
+        "Atk": 125,
+        "Def": 75,
+        "SpAtk": 40,
+        "SpDef": 95,
+        "Spe": 85,
+        "type1": "Lotta",
+        "type2": "Coleottero"
+    },
+    "sneasel": {
+        "PS": 55,
+        "Atk": 95,
+        "Def": 55,
+        "SpAtk": 35,
+        "SpDef": 75,
+        "Spe": 115,
+        "type1": "Ghiaccio",
+        "type2": "Buio"
+    },
+    "teddiursa": {
+        "PS": 60,
+        "Atk": 80,
+        "Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 40,
+        "type1": "Normale",
+        "type2": null
+    },
+    "ursaring": {
+        "PS": 90,
+        "Atk": 130,
+        "Def": 75,
+        "SpAtk": 75,
+        "SpDef": 75,
+        "Spe": 55,
+        "type1": "Normale",
+        "type2": null
+    },
+    "slugma": {
+        "PS": 40,
+        "Atk": 40,
+        "Def": 40,
+        "SpAtk": 70,
+        "SpDef": 40,
+        "Spe": 20,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "magcargo": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 120,
+        "SpAtk": 90,
+        "SpDef": 80,
+        "Spe": 30,
+        "type1": "Roccia",
+        "type2": "Fuoco"
+    },
+    "swinub": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 40,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 50,
+        "type1": "Terra",
+        "type2": "Ghiaccio"
+    },
+    "piloswine": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 80,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 50,
+        "type1": "Terra",
+        "type2": "Ghiaccio"
+    },
+    "corsola": {
+        "PS": 65,
+        "Atk": 55,
+        "Def": 95,
+        "SpAtk": 65,
+        "SpDef": 95,
+        "Spe": 35,
+        "type1": "Roccia",
+        "type2": "Acqua"
+    },
+    "remoraid": {
+        "PS": 35,
+        "Atk": 65,
+        "Def": 35,
+        "SpAtk": 65,
+        "SpDef": 35,
+        "Spe": 65,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "octillery": {
+        "PS": 75,
+        "Atk": 105,
+        "Def": 75,
+        "SpAtk": 105,
+        "SpDef": 75,
+        "Spe": 45,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "delibird": {
+        "PS": 45,
+        "Atk": 55,
+        "Def": 45,
+        "SpAtk": 65,
+        "SpDef": 45,
+        "Spe": 75,
+        "type1": "Volante",
+        "type2": "Ghiaccio"
+    },
+    "mantine": {
+        "PS": 85,
+        "Atk": 40,
+        "Def": 70,
+        "SpAtk": 80,
+        "SpDef": 140,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "skarmory": {
+        "PS": 65,
+        "Atk": 80,
+        "Def": 140,
+        "SpAtk": 40,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Acciaio"
+    },
+    "houndour": {
+        "PS": 45,
+        "Atk": 60,
+        "Def": 30,
+        "SpAtk": 80,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": "Buio"
+    },
+    "houndoom": {
+        "PS": 75,
+        "Atk": 90,
+        "Def": 50,
+        "SpAtk": 110,
+        "SpDef": 80,
+        "Spe": 95,
+        "type1": "Fuoco",
+        "type2": "Buio"
+    },
+    "kingdra": {
+        "PS": 75,
+        "Atk": 95,
+        "Def": 95,
+        "SpAtk": 95,
+        "SpDef": 95,
+        "Spe": 85,
+        "type1": "Drago",
+        "type2": "Acqua"
+    },
+    "phanpy": {
+        "PS": 90,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 40,
+        "type1": "Terra",
+        "type2": null
+    },
+    "donphan": {
+        "PS": 90,
+        "Atk": 120,
+        "Def": 120,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 50,
+        "type1": "Terra",
+        "type2": null
+    },
+    "porygon2": {
+        "PS": 85,
+        "Atk": 80,
+        "Def": 90,
+        "SpAtk": 105,
+        "SpDef": 95,
+        "Spe": 60,
+        "type1": "Normale",
+        "type2": null
+    },
+    "stantler": {
+        "PS": 73,
+        "Atk": 95,
+        "Def": 62,
+        "SpAtk": 85,
+        "SpDef": 65,
+        "Spe": 85,
+        "type1": "Normale",
+        "type2": null
+    },
+    "smeargle": {
+        "PS": 55,
+        "Atk": 20,
+        "Def": 35,
+        "SpAtk": 20,
+        "SpDef": 45,
+        "Spe": 75,
+        "type1": "Normale",
+        "type2": null
+    },
+    "tyrogue": {
+        "PS": 35,
+        "Atk": 35,
+        "Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 35,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "hitmontop": {
+        "PS": 50,
+        "Atk": 95,
+        "Def": 95,
+        "SpAtk": 35,
+        "SpDef": 110,
+        "Spe": 70,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "smoochum": {
+        "PS": 45,
+        "Atk": 30,
+        "Def": 15,
+        "SpAtk": 85,
+        "SpDef": 65,
+        "Spe": 65,
+        "type1": "Psico",
+        "type2": "Ghiaccio"
+    },
+    "elekid": {
+        "PS": 45,
+        "Atk": 63,
+        "Def": 37,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 95,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "magby": {
+        "PS": 45,
+        "Atk": 75,
+        "Def": 37,
+        "SpAtk": 70,
+        "SpDef": 55,
+        "Spe": 83,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "miltank": {
+        "PS": 95,
+        "Atk": 80,
+        "Def": 105,
+        "SpAtk": 40,
+        "SpDef": 70,
+        "Spe": 100,
+        "type1": "Normale",
+        "type2": null
+    },
+    "blissey": {
+        "PS": 255,
+        "Atk": 10,
+        "Def": 10,
+        "SpAtk": 75,
+        "SpDef": 135,
+        "Spe": 55,
+        "type1": "Normale",
+        "type2": null
+    },
+    "raikou": {
+        "PS": 90,
+        "Atk": 85,
+        "Def": 75,
+        "SpAtk": 115,
+        "SpDef": 100,
+        "Spe": 115,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "entei": {
+        "PS": 115,
+        "Atk": 115,
+        "Def": 85,
+        "SpAtk": 90,
+        "SpDef": 75,
+        "Spe": 100,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "suicune": {
+        "PS": 100,
+        "Atk": 75,
+        "Def": 115,
+        "SpAtk": 90,
+        "SpDef": 115,
+        "Spe": 85,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "larvitar": {
+        "PS": 50,
+        "Atk": 64,
+        "Def": 50,
+        "SpAtk": 45,
+        "SpDef": 50,
+        "Spe": 41,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "pupitar": {
+        "PS": 70,
+        "Atk": 84,
+        "Def": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Spe": 51,
+        "type1": "Terra",
+        "type2": "Roccia"
+    },
+    "tyranitar": {
+        "PS": 100,
+        "Atk": 134,
+        "Def": 110,
+        "SpAtk": 95,
+        "SpDef": 100,
+        "Spe": 61,
+        "type1": "Buio",
+        "type2": "Roccia"
+    },
+    "lugia": {
+        "PS": 106,
+        "Atk": 90,
+        "Def": 130,
+        "SpAtk": 90,
+        "SpDef": 154,
+        "Spe": 110,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "ho-oh": {
+        "PS": 106,
+        "Atk": 130,
+        "Def": 90,
+        "SpAtk": 110,
+        "SpDef": 154,
+        "Spe": 90,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "celebi": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Erba",
+        "type2": "Psico"
+    },
+    "treecko": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 35,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 70,
+        "type1": "Erba",
+        "type2": null
+    },
+    "grovyle": {
+        "PS": 50,
+        "Atk": 65,
+        "Def": 45,
+        "SpAtk": 85,
+        "SpDef": 65,
+        "Spe": 95,
+        "type1": "Erba",
+        "type2": null
+    },
+    "sceptile": {
+        "PS": 70,
+        "Atk": 85,
+        "Def": 65,
+        "SpAtk": 105,
+        "SpDef": 85,
+        "Spe": 120,
+        "type1": "Erba",
+        "type2": null
+    },
+    "torchic": {
+        "PS": 45,
+        "Atk": 60,
+        "Def": 40,
+        "SpAtk": 70,
+        "SpDef": 50,
+        "Spe": 45,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "combusken": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 60,
+        "SpAtk": 85,
+        "SpDef": 60,
+        "Spe": 55,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "blaziken": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 70,
+        "SpAtk": 110,
+        "SpDef": 70,
+        "Spe": 80,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "mudkip": {
+        "PS": 50,
+        "Atk": 70,
+        "Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "marshtomp": {
+        "PS": 70,
+        "Atk": 85,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 50,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "swampert": {
+        "PS": 100,
+        "Atk": 110,
+        "Def": 90,
+        "SpAtk": 85,
+        "SpDef": 90,
+        "Spe": 60,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "poochyena": {
+        "PS": 35,
+        "Atk": 55,
+        "Def": 35,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 35,
+        "type1": "Buio",
+        "type2": null
+    },
+    "mightyena": {
+        "PS": 70,
+        "Atk": 90,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 70,
+        "type1": "Buio",
+        "type2": null
+    },
+    "zigzagoon": {
+        "PS": 38,
+        "Atk": 30,
+        "Def": 41,
+        "SpAtk": 30,
+        "SpDef": 41,
+        "Spe": 60,
+        "type1": "Normale",
+        "type2": null
+    },
+    "linoone": {
+        "PS": 78,
+        "Atk": 70,
+        "Def": 61,
+        "SpAtk": 50,
+        "SpDef": 61,
+        "Spe": 100,
+        "type1": "Normale",
+        "type2": null
+    },
+    "wurmple": {
+        "PS": 45,
+        "Atk": 45,
+        "Def": 35,
+        "SpAtk": 20,
+        "SpDef": 30,
+        "Spe": 20,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "silcoon": {
+        "PS": 50,
+        "Atk": 35,
+        "Def": 55,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 15,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "beautifly": {
+        "PS": 60,
+        "Atk": 70,
+        "Def": 50,
+        "SpAtk": 100,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "cascoon": {
+        "PS": 50,
+        "Atk": 35,
+        "Def": 55,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 15,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "dustox": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 70,
+        "SpAtk": 50,
+        "SpDef": 90,
+        "Spe": 65,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "lotad": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 30,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": "Acqua"
+    },
+    "lombre": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 50,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 50,
+        "type1": "Erba",
+        "type2": "Acqua"
+    },
+    "ludicolo": {
+        "PS": 80,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Spe": 70,
+        "type1": "Erba",
+        "type2": "Acqua"
+    },
+    "seedot": {
+        "PS": 40,
+        "Atk": 40,
+        "Def": 50,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": null
+    },
+    "nuzleaf": {
+        "PS": 70,
+        "Atk": 70,
+        "Def": 40,
+        "SpAtk": 60,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Buio",
+        "type2": "Erba"
+    },
+    "shiftry": {
+        "PS": 90,
+        "Atk": 100,
+        "Def": 60,
+        "SpAtk": 90,
+        "SpDef": 60,
+        "Spe": 80,
+        "type1": "Buio",
+        "type2": "Erba"
+    },
+    "taillow": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 85,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "swellow": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 60,
+        "SpAtk": 75,
+        "SpDef": 50,
+        "Spe": 125,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "wingull": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 30,
+        "SpAtk": 55,
+        "SpDef": 30,
+        "Spe": 85,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "pelipper": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 100,
+        "SpAtk": 95,
+        "SpDef": 70,
+        "Spe": 65,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "ralts": {
+        "PS": 28,
+        "Atk": 25,
+        "Def": 25,
+        "SpAtk": 45,
+        "SpDef": 35,
+        "Spe": 40,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "kirlia": {
+        "PS": 38,
+        "Atk": 35,
+        "Def": 35,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "gardevoir": {
+        "PS": 68,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 125,
+        "SpDef": 115,
+        "Spe": 80,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "surskit": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 32,
+        "SpAtk": 50,
+        "SpDef": 52,
+        "Spe": 65,
+        "type1": "Acqua",
+        "type2": "Coleottero"
+    },
+    "masquerain": {
+        "PS": 70,
+        "Atk": 60,
+        "Def": 62,
+        "SpAtk": 100,
+        "SpDef": 82,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "shroomish": {
+        "PS": 60,
+        "Atk": 40,
+        "Def": 60,
+        "SpAtk": 40,
+        "SpDef": 60,
+        "Spe": 35,
+        "type1": "Erba",
+        "type2": null
+    },
+    "breloom": {
+        "PS": 60,
+        "Atk": 130,
+        "Def": 80,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 70,
+        "type1": "Lotta",
+        "type2": "Erba"
+    },
+    "slakoth": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 30,
+        "type1": "Normale",
+        "type2": null
+    },
+    "vigoroth": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 80,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "slaking": {
+        "PS": 150,
+        "Atk": 160,
+        "Def": 100,
+        "SpAtk": 95,
+        "SpDef": 65,
+        "Spe": 100,
+        "type1": "Normale",
+        "type2": null
+    },
+    "nincada": {
+        "PS": 31,
+        "Atk": 45,
+        "Def": 90,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 40,
+        "type1": "Terra",
+        "type2": "Coleottero"
+    },
+    "ninjask": {
+        "PS": 61,
+        "Atk": 90,
+        "Def": 45,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 160,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "shedinja": {
+        "PS": 1,
+        "Atk": 90,
+        "Def": 45,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 40,
+        "type1": "Spettro",
+        "type2": "Coleottero"
+    },
+    "whismur": {
+        "PS": 64,
+        "Atk": 51,
+        "Def": 23,
+        "SpAtk": 51,
+        "SpDef": 23,
+        "Spe": 28,
+        "type1": "Normale",
+        "type2": null
+    },
+    "loudred": {
+        "PS": 84,
+        "Atk": 71,
+        "Def": 43,
+        "SpAtk": 71,
+        "SpDef": 43,
+        "Spe": 48,
+        "type1": "Normale",
+        "type2": null
+    },
+    "exploud": {
+        "PS": 104,
+        "Atk": 91,
+        "Def": 63,
+        "SpAtk": 91,
+        "SpDef": 73,
+        "Spe": 68,
+        "type1": "Normale",
+        "type2": null
+    },
+    "makuhita": {
+        "PS": 72,
+        "Atk": 60,
+        "Def": 30,
+        "SpAtk": 20,
+        "SpDef": 30,
+        "Spe": 25,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "hariyama": {
+        "PS": 144,
+        "Atk": 120,
+        "Def": 60,
+        "SpAtk": 40,
+        "SpDef": 60,
+        "Spe": 50,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "azurill": {
+        "PS": 50,
+        "Atk": 20,
+        "Def": 40,
+        "SpAtk": 20,
+        "SpDef": 40,
+        "Spe": 20,
+        "type1": "Folletto",
+        "type2": "Normale"
+    },
+    "nosepass": {
+        "PS": 30,
+        "Atk": 45,
+        "Def": 135,
+        "SpAtk": 45,
+        "SpDef": 90,
+        "Spe": 30,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "skitty": {
+        "PS": 50,
+        "Atk": 45,
+        "Def": 45,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 50,
+        "type1": "Normale",
+        "type2": null
+    },
+    "delcatty": {
+        "PS": 70,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "sableye": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 75,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Spe": 50,
+        "type1": "Spettro",
+        "type2": "Buio"
+    },
+    "mawile": {
+        "PS": 50,
+        "Atk": 85,
+        "Def": 85,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Acciaio"
+    },
+    "aron": {
+        "PS": 50,
+        "Atk": 70,
+        "Def": 100,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 30,
+        "type1": "Roccia",
+        "type2": "Acciaio"
+    },
+    "lairon": {
+        "PS": 60,
+        "Atk": 90,
+        "Def": 140,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 40,
+        "type1": "Roccia",
+        "type2": "Acciaio"
+    },
+    "aggron": {
+        "PS": 70,
+        "Atk": 110,
+        "Def": 180,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 50,
+        "type1": "Roccia",
+        "type2": "Acciaio"
+    },
+    "meditite": {
+        "PS": 30,
+        "Atk": 40,
+        "Def": 55,
+        "SpAtk": 40,
+        "SpDef": 55,
+        "Spe": 60,
+        "type1": "Psico",
+        "type2": "Lotta"
+    },
+    "medicham": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Spe": 80,
+        "type1": "Psico",
+        "type2": "Lotta"
+    },
+    "electrike": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 40,
+        "SpAtk": 65,
+        "SpDef": 40,
+        "Spe": 65,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "manectric": {
+        "PS": 70,
+        "Atk": 75,
+        "Def": 60,
+        "SpAtk": 105,
+        "SpDef": 60,
+        "Spe": 105,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "plusle": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 40,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 95,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "minun": {
+        "PS": 60,
+        "Atk": 40,
+        "Def": 50,
+        "SpAtk": 75,
+        "SpDef": 85,
+        "Spe": 95,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "volbeat": {
+        "PS": 65,
+        "Atk": 73,
+        "Def": 75,
+        "SpAtk": 47,
+        "SpDef": 85,
+        "Spe": 85,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "illumise": {
+        "PS": 65,
+        "Atk": 47,
+        "Def": 75,
+        "SpAtk": 73,
+        "SpDef": 85,
+        "Spe": 85,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "roselia": {
+        "PS": 50,
+        "Atk": 60,
+        "Def": 45,
+        "SpAtk": 100,
+        "SpDef": 80,
+        "Spe": 65,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "gulpin": {
+        "PS": 70,
+        "Atk": 43,
+        "Def": 53,
+        "SpAtk": 43,
+        "SpDef": 53,
+        "Spe": 40,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "swalot": {
+        "PS": 100,
+        "Atk": 73,
+        "Def": 83,
+        "SpAtk": 73,
+        "SpDef": 83,
+        "Spe": 55,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "carvanha": {
+        "PS": 45,
+        "Atk": 90,
+        "Def": 20,
+        "SpAtk": 65,
+        "SpDef": 20,
+        "Spe": 65,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "sharpedo": {
+        "PS": 70,
+        "Atk": 120,
+        "Def": 40,
+        "SpAtk": 95,
+        "SpDef": 40,
+        "Spe": 95,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "wailmer": {
+        "PS": 130,
+        "Atk": 70,
+        "Def": 35,
+        "SpAtk": 70,
+        "SpDef": 35,
+        "Spe": 60,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "wailord": {
+        "PS": 170,
+        "Atk": 90,
+        "Def": 45,
+        "SpAtk": 90,
+        "SpDef": 45,
+        "Spe": 60,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "numel": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 40,
+        "SpAtk": 65,
+        "SpDef": 45,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": "Fuoco"
+    },
+    "camerupt": {
+        "PS": 70,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 105,
+        "SpDef": 75,
+        "Spe": 40,
+        "type1": "Terra",
+        "type2": "Fuoco"
+    },
+    "torkoal": {
+        "PS": 70,
+        "Atk": 85,
+        "Def": 140,
+        "SpAtk": 85,
+        "SpDef": 70,
+        "Spe": 20,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "spoink": {
+        "PS": 60,
+        "Atk": 25,
+        "Def": 35,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Spe": 60,
+        "type1": "Psico",
+        "type2": null
+    },
+    "grumpig": {
+        "PS": 80,
+        "Atk": 45,
+        "Def": 65,
+        "SpAtk": 90,
+        "SpDef": 110,
+        "Spe": 80,
+        "type1": "Psico",
+        "type2": null
+    },
+    "spinda": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 60,
+        "type1": "Normale",
+        "type2": null
+    },
+    "trapinch": {
+        "PS": 45,
+        "Atk": 100,
+        "Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 10,
+        "type1": "Terra",
+        "type2": null
+    },
+    "vibrava": {
+        "PS": 50,
+        "Atk": 70,
+        "Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 70,
+        "type1": "Drago",
+        "type2": "Terra"
+    },
+    "flygon": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 100,
+        "type1": "Drago",
+        "type2": "Terra"
+    },
+    "cacnea": {
+        "PS": 50,
+        "Atk": 85,
+        "Def": 40,
+        "SpAtk": 85,
+        "SpDef": 40,
+        "Spe": 35,
+        "type1": "Erba",
+        "type2": null
+    },
+    "cacturne": {
+        "PS": 70,
+        "Atk": 115,
+        "Def": 60,
+        "SpAtk": 115,
+        "SpDef": 60,
+        "Spe": 55,
+        "type1": "Buio",
+        "type2": "Erba"
+    },
+    "swablu": {
+        "PS": 45,
+        "Atk": 40,
+        "Def": 60,
+        "SpAtk": 40,
+        "SpDef": 75,
+        "Spe": 50,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "altaria": {
+        "PS": 75,
+        "Atk": 70,
+        "Def": 90,
+        "SpAtk": 70,
+        "SpDef": 105,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "zangoose": {
+        "PS": 73,
+        "Atk": 115,
+        "Def": 60,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "seviper": {
+        "PS": 73,
+        "Atk": 100,
+        "Def": 60,
+        "SpAtk": 100,
+        "SpDef": 60,
+        "Spe": 65,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "lunatone": {
+        "PS": 90,
+        "Atk": 55,
+        "Def": 65,
+        "SpAtk": 95,
+        "SpDef": 85,
+        "Spe": 70,
+        "type1": "Psico",
+        "type2": "Roccia"
+    },
+    "solrock": {
+        "PS": 90,
+        "Atk": 95,
+        "Def": 85,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 70,
+        "type1": "Psico",
+        "type2": "Roccia"
+    },
+    "barboach": {
+        "PS": 50,
+        "Atk": 48,
+        "Def": 43,
+        "SpAtk": 46,
+        "SpDef": 41,
+        "Spe": 60,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "whiscash": {
+        "PS": 110,
+        "Atk": 78,
+        "Def": 73,
+        "SpAtk": 76,
+        "SpDef": 71,
+        "Spe": 60,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "corphish": {
+        "PS": 43,
+        "Atk": 80,
+        "Def": 65,
+        "SpAtk": 50,
+        "SpDef": 35,
+        "Spe": 35,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "crawdaunt": {
+        "PS": 63,
+        "Atk": 120,
+        "Def": 85,
+        "SpAtk": 90,
+        "SpDef": 55,
+        "Spe": 55,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "baltoy": {
+        "PS": 40,
+        "Atk": 40,
+        "Def": 55,
+        "SpAtk": 40,
+        "SpDef": 70,
+        "Spe": 55,
+        "type1": "Psico",
+        "type2": "Terra"
+    },
+    "claydol": {
+        "PS": 60,
+        "Atk": 70,
+        "Def": 105,
+        "SpAtk": 70,
+        "SpDef": 120,
+        "Spe": 75,
+        "type1": "Psico",
+        "type2": "Terra"
+    },
+    "lileep": {
+        "PS": 66,
+        "Atk": 41,
+        "Def": 77,
+        "SpAtk": 61,
+        "SpDef": 87,
+        "Spe": 23,
+        "type1": "Erba",
+        "type2": "Roccia"
+    },
+    "cradily": {
+        "PS": 86,
+        "Atk": 81,
+        "Def": 97,
+        "SpAtk": 81,
+        "SpDef": 107,
+        "Spe": 43,
+        "type1": "Erba",
+        "type2": "Roccia"
+    },
+    "anorith": {
+        "PS": 45,
+        "Atk": 95,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 75,
+        "type1": "Coleottero",
+        "type2": "Roccia"
+    },
+    "armaldo": {
+        "PS": 75,
+        "Atk": 125,
+        "Def": 100,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Spe": 45,
+        "type1": "Coleottero",
+        "type2": "Roccia"
+    },
+    "feebas": {
+        "PS": 20,
+        "Atk": 15,
+        "Def": 20,
+        "SpAtk": 10,
+        "SpDef": 55,
+        "Spe": 80,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "milotic": {
+        "PS": 95,
+        "Atk": 60,
+        "Def": 79,
+        "SpAtk": 100,
+        "SpDef": 125,
+        "Spe": 81,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "castform": {
+        "PS": 70,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Normale",
+        "type2": null
+    },
+    "kecleon": {
+        "PS": 60,
+        "Atk": 90,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 120,
+        "Spe": 40,
+        "type1": "Normale",
+        "type2": null
+    },
+    "shuppet": {
+        "PS": 44,
+        "Atk": 75,
+        "Def": 35,
+        "SpAtk": 63,
+        "SpDef": 33,
+        "Spe": 45,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "banette": {
+        "PS": 64,
+        "Atk": 115,
+        "Def": 65,
+        "SpAtk": 83,
+        "SpDef": 63,
+        "Spe": 65,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "duskull": {
+        "PS": 20,
+        "Atk": 40,
+        "Def": 90,
+        "SpAtk": 30,
+        "SpDef": 90,
+        "Spe": 25,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "dusclops": {
+        "PS": 40,
+        "Atk": 70,
+        "Def": 130,
+        "SpAtk": 60,
+        "SpDef": 130,
+        "Spe": 25,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "tropius": {
+        "PS": 99,
+        "Atk": 68,
+        "Def": 83,
+        "SpAtk": 72,
+        "SpDef": 87,
+        "Spe": 51,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "chimecho": {
+        "PS": 75,
+        "Atk": 50,
+        "Def": 80,
+        "SpAtk": 95,
+        "SpDef": 90,
+        "Spe": 65,
+        "type1": "Psico",
+        "type2": null
+    },
+    "absol": {
+        "PS": 65,
+        "Atk": 130,
+        "Def": 60,
+        "SpAtk": 75,
+        "SpDef": 60,
+        "Spe": 75,
+        "type1": "Buio",
+        "type2": null
+    },
+    "wynaut": {
+        "PS": 95,
+        "Atk": 23,
+        "Def": 48,
+        "SpAtk": 23,
+        "SpDef": 48,
+        "Spe": 23,
+        "type1": "Psico",
+        "type2": null
+    },
+    "snorunt": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 50,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "glalie": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 80,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "spheal": {
+        "PS": 70,
+        "Atk": 40,
+        "Def": 50,
+        "SpAtk": 55,
+        "SpDef": 50,
+        "Spe": 25,
+        "type1": "Acqua",
+        "type2": "Ghiaccio"
+    },
+    "sealeo": {
+        "PS": 90,
+        "Atk": 60,
+        "Def": 70,
+        "SpAtk": 75,
+        "SpDef": 70,
+        "Spe": 45,
+        "type1": "Acqua",
+        "type2": "Ghiaccio"
+    },
+    "walrein": {
+        "PS": 110,
+        "Atk": 80,
+        "Def": 90,
+        "SpAtk": 95,
+        "SpDef": 90,
+        "Spe": 65,
+        "type1": "Acqua",
+        "type2": "Ghiaccio"
+    },
+    "clamperl": {
+        "PS": 35,
+        "Atk": 64,
+        "Def": 85,
+        "SpAtk": 74,
+        "SpDef": 55,
+        "Spe": 32,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "huntail": {
+        "PS": 55,
+        "Atk": 104,
+        "Def": 105,
+        "SpAtk": 94,
+        "SpDef": 75,
+        "Spe": 52,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "gorebyss": {
+        "PS": 55,
+        "Atk": 84,
+        "Def": 105,
+        "SpAtk": 114,
+        "SpDef": 75,
+        "Spe": 52,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "relicanth": {
+        "PS": 100,
+        "Atk": 90,
+        "Def": 130,
+        "SpAtk": 45,
+        "SpDef": 65,
+        "Spe": 55,
+        "type1": "Roccia",
+        "type2": "Acqua"
+    },
+    "luvdisc": {
+        "PS": 43,
+        "Atk": 30,
+        "Def": 55,
+        "SpAtk": 40,
+        "SpDef": 65,
+        "Spe": 97,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "bagon": {
+        "PS": 45,
+        "Atk": 75,
+        "Def": 60,
+        "SpAtk": 40,
+        "SpDef": 30,
+        "Spe": 50,
+        "type1": "Drago",
+        "type2": null
+    },
+    "shelgon": {
+        "PS": 65,
+        "Atk": 95,
+        "Def": 100,
+        "SpAtk": 60,
+        "SpDef": 50,
+        "Spe": 50,
+        "type1": "Drago",
+        "type2": null
+    },
+    "salamence": {
+        "PS": 95,
+        "Atk": 135,
+        "Def": 80,
+        "SpAtk": 110,
+        "SpDef": 80,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "beldum": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 80,
+        "SpAtk": 35,
+        "SpDef": 60,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "metang": {
+        "PS": 60,
+        "Atk": 75,
+        "Def": 100,
+        "SpAtk": 55,
+        "SpDef": 80,
+        "Spe": 50,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "metagross": {
+        "PS": 80,
+        "Atk": 135,
+        "Def": 130,
+        "SpAtk": 95,
+        "SpDef": 90,
+        "Spe": 70,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "regirock": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 200,
+        "SpAtk": 50,
+        "SpDef": 100,
+        "Spe": 50,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "regice": {
+        "PS": 80,
+        "Atk": 50,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 200,
+        "Spe": 50,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "registeel": {
+        "PS": 80,
+        "Atk": 75,
+        "Def": 150,
+        "SpAtk": 75,
+        "SpDef": 150,
+        "Spe": 50,
+        "type1": "Acciaio",
+        "type2": null
+    },
+    "latias": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 90,
+        "SpAtk": 110,
+        "SpDef": 130,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Drago"
+    },
+    "latios": {
+        "PS": 80,
+        "Atk": 90,
+        "Def": 80,
+        "SpAtk": 130,
+        "SpDef": 110,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Drago"
+    },
+    "kyogre": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 90,
+        "SpAtk": 150,
+        "SpDef": 140,
+        "Spe": 90,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "groudon": {
+        "PS": 100,
+        "Atk": 150,
+        "Def": 140,
+        "SpAtk": 100,
+        "SpDef": 90,
+        "Spe": 90,
+        "type1": "Terra",
+        "type2": null
+    },
+    "rayquaza": {
+        "PS": 105,
+        "Atk": 150,
+        "Def": 90,
+        "SpAtk": 150,
+        "SpDef": 90,
+        "Spe": 95,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "jirachi": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "deoxys": {
+        "PS": 50,
+        "Atk": 150,
+        "Def": 50,
+        "SpAtk": 150,
+        "SpDef": 50,
+        "Spe": 150,
+        "type1": "Psico",
+        "type2": null
+    },
+    "turtwig": {
+        "PS": 55,
+        "Atk": 68,
+        "Def": 64,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 31,
+        "type1": "Erba",
+        "type2": null
+    },
+    "grotle": {
+        "PS": 75,
+        "Atk": 89,
+        "Def": 85,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 36,
+        "type1": "Erba",
+        "type2": null
+    },
+    "torterra": {
+        "PS": 95,
+        "Atk": 109,
+        "Def": 105,
+        "SpAtk": 75,
+        "SpDef": 85,
+        "Spe": 56,
+        "type1": "Terra",
+        "type2": "Erba"
+    },
+    "chimchar": {
+        "PS": 44,
+        "Atk": 58,
+        "Def": 44,
+        "SpAtk": 58,
+        "SpDef": 44,
+        "Spe": 61,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "monferno": {
+        "PS": 64,
+        "Atk": 78,
+        "Def": 52,
+        "SpAtk": 78,
+        "SpDef": 52,
+        "Spe": 81,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "infernape": {
+        "PS": 76,
+        "Atk": 104,
+        "Def": 71,
+        "SpAtk": 104,
+        "SpDef": 71,
+        "Spe": 108,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "piplup": {
+        "PS": 53,
+        "Atk": 51,
+        "Def": 53,
+        "SpAtk": 61,
+        "SpDef": 56,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "prinplup": {
+        "PS": 64,
+        "Atk": 66,
+        "Def": 68,
+        "SpAtk": 81,
+        "SpDef": 76,
+        "Spe": 50,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "empoleon": {
+        "PS": 84,
+        "Atk": 86,
+        "Def": 88,
+        "SpAtk": 111,
+        "SpDef": 101,
+        "Spe": 60,
+        "type1": "Acciaio",
+        "type2": "Acqua"
+    },
+    "starly": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "staravia": {
+        "PS": 55,
+        "Atk": 75,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "staraptor": {
+        "PS": 85,
+        "Atk": 120,
+        "Def": 70,
+        "SpAtk": 50,
+        "SpDef": 60,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "bidoof": {
+        "PS": 59,
+        "Atk": 45,
+        "Def": 40,
+        "SpAtk": 35,
+        "SpDef": 40,
+        "Spe": 31,
+        "type1": "Normale",
+        "type2": null
+    },
+    "bibarel": {
+        "PS": 79,
+        "Atk": 85,
+        "Def": 60,
+        "SpAtk": 55,
+        "SpDef": 60,
+        "Spe": 71,
+        "type1": "Acqua",
+        "type2": "Normale"
+    },
+    "kricketot": {
+        "PS": 37,
+        "Atk": 25,
+        "Def": 41,
+        "SpAtk": 25,
+        "SpDef": 41,
+        "Spe": 25,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "kricketune": {
+        "PS": 77,
+        "Atk": 85,
+        "Def": 51,
+        "SpAtk": 55,
+        "SpDef": 51,
+        "Spe": 65,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "shinx": {
+        "PS": 45,
+        "Atk": 65,
+        "Def": 34,
+        "SpAtk": 40,
+        "SpDef": 34,
+        "Spe": 45,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "luxio": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 49,
+        "SpAtk": 60,
+        "SpDef": 49,
+        "Spe": 60,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "luxray": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 79,
+        "SpAtk": 95,
+        "SpDef": 79,
+        "Spe": 70,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "budew": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 35,
+        "SpAtk": 50,
+        "SpDef": 70,
+        "Spe": 55,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "roserade": {
+        "PS": 60,
+        "Atk": 70,
+        "Def": 65,
+        "SpAtk": 125,
+        "SpDef": 105,
+        "Spe": 90,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "cranidos": {
+        "PS": 67,
+        "Atk": 125,
+        "Def": 40,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 58,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "rampardos": {
+        "PS": 97,
+        "Atk": 165,
+        "Def": 60,
+        "SpAtk": 65,
+        "SpDef": 50,
+        "Spe": 58,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "shieldon": {
+        "PS": 30,
+        "Atk": 42,
+        "Def": 118,
+        "SpAtk": 42,
+        "SpDef": 88,
+        "Spe": 30,
+        "type1": "Acciaio",
+        "type2": "Roccia"
+    },
+    "bastiodon": {
+        "PS": 60,
+        "Atk": 52,
+        "Def": 168,
+        "SpAtk": 47,
+        "SpDef": 138,
+        "Spe": 30,
+        "type1": "Acciaio",
+        "type2": "Roccia"
+    },
+    "burmy": {
+        "PS": 40,
+        "Atk": 29,
+        "Def": 45,
+        "SpAtk": 29,
+        "SpDef": 45,
+        "Spe": 36,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "wormadam": {
+        "PS": 60,
+        "Atk": 59,
+        "Def": 85,
+        "SpAtk": 79,
+        "SpDef": 105,
+        "Spe": 36,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "mothim": {
+        "PS": 70,
+        "Atk": 94,
+        "Def": 50,
+        "SpAtk": 94,
+        "SpDef": 50,
+        "Spe": 66,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "combee": {
+        "PS": 30,
+        "Atk": 30,
+        "Def": 42,
+        "SpAtk": 30,
+        "SpDef": 42,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "vespiquen": {
+        "PS": 70,
+        "Atk": 80,
+        "Def": 102,
+        "SpAtk": 80,
+        "SpDef": 102,
+        "Spe": 40,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "pachirisu": {
+        "PS": 60,
+        "Atk": 45,
+        "Def": 70,
+        "SpAtk": 45,
+        "SpDef": 90,
+        "Spe": 95,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "buizel": {
+        "PS": 55,
+        "Atk": 65,
+        "Def": 35,
+        "SpAtk": 60,
+        "SpDef": 30,
+        "Spe": 85,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "floatzel": {
+        "PS": 85,
+        "Atk": 105,
+        "Def": 55,
+        "SpAtk": 85,
+        "SpDef": 50,
+        "Spe": 115,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "cherubi": {
+        "PS": 45,
+        "Atk": 35,
+        "Def": 45,
+        "SpAtk": 62,
+        "SpDef": 53,
+        "Spe": 35,
+        "type1": "Erba",
+        "type2": null
+    },
+    "cherrim": {
+        "PS": 70,
+        "Atk": 60,
+        "Def": 70,
+        "SpAtk": 87,
+        "SpDef": 78,
+        "Spe": 85,
+        "type1": "Erba",
+        "type2": null
+    },
+    "shellos": {
+        "PS": 76,
+        "Atk": 48,
+        "Def": 48,
+        "SpAtk": 57,
+        "SpDef": 62,
+        "Spe": 34,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "gastrodon": {
+        "PS": 111,
+        "Atk": 83,
+        "Def": 68,
+        "SpAtk": 92,
+        "SpDef": 82,
+        "Spe": 39,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "ambipom": {
+        "PS": 75,
+        "Atk": 100,
+        "Def": 66,
+        "SpAtk": 60,
+        "SpDef": 66,
+        "Spe": 115,
+        "type1": "Normale",
+        "type2": null
+    },
+    "drifloon": {
+        "PS": 90,
+        "Atk": 50,
+        "Def": 34,
+        "SpAtk": 60,
+        "SpDef": 44,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Spettro"
+    },
+    "drifblim": {
+        "PS": 150,
+        "Atk": 80,
+        "Def": 44,
+        "SpAtk": 90,
+        "SpDef": 54,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Spettro"
+    },
+    "buneary": {
+        "PS": 55,
+        "Atk": 66,
+        "Def": 44,
+        "SpAtk": 44,
+        "SpDef": 56,
+        "Spe": 85,
+        "type1": "Normale",
+        "type2": null
+    },
+    "lopunny": {
+        "PS": 65,
+        "Atk": 76,
+        "Def": 84,
+        "SpAtk": 54,
+        "SpDef": 96,
+        "Spe": 105,
+        "type1": "Normale",
+        "type2": null
+    },
+    "mismagius": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 105,
+        "SpDef": 105,
+        "Spe": 105,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "honchkrow": {
+        "PS": 100,
+        "Atk": 125,
+        "Def": 52,
+        "SpAtk": 105,
+        "SpDef": 52,
+        "Spe": 71,
+        "type1": "Volante",
+        "type2": "Buio"
+    },
+    "glameow": {
+        "PS": 49,
+        "Atk": 55,
+        "Def": 42,
+        "SpAtk": 42,
+        "SpDef": 37,
+        "Spe": 85,
+        "type1": "Normale",
+        "type2": null
+    },
+    "purugly": {
+        "PS": 71,
+        "Atk": 82,
+        "Def": 64,
+        "SpAtk": 64,
+        "SpDef": 59,
+        "Spe": 112,
+        "type1": "Normale",
+        "type2": null
+    },
+    "chingling": {
+        "PS": 45,
+        "Atk": 30,
+        "Def": 50,
+        "SpAtk": 65,
+        "SpDef": 50,
+        "Spe": 45,
+        "type1": "Psico",
+        "type2": null
+    },
+    "stunky": {
+        "PS": 63,
+        "Atk": 63,
+        "Def": 47,
+        "SpAtk": 41,
+        "SpDef": 41,
+        "Spe": 74,
+        "type1": "Buio",
+        "type2": "Veleno"
+    },
+    "skuntank": {
+        "PS": 103,
+        "Atk": 93,
+        "Def": 67,
+        "SpAtk": 71,
+        "SpDef": 61,
+        "Spe": 84,
+        "type1": "Buio",
+        "type2": "Veleno"
+    },
+    "bronzor": {
+        "PS": 57,
+        "Atk": 24,
+        "Def": 86,
+        "SpAtk": 24,
+        "SpDef": 86,
+        "Spe": 23,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "bronzong": {
+        "PS": 67,
+        "Atk": 89,
+        "Def": 116,
+        "SpAtk": 79,
+        "SpDef": 116,
+        "Spe": 33,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "bonsly": {
+        "PS": 50,
+        "Atk": 80,
+        "Def": 95,
+        "SpAtk": 10,
+        "SpDef": 45,
+        "Spe": 10,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "mime jr": {
+        "PS": 20,
+        "Atk": 25,
+        "Def": 45,
+        "SpAtk": 70,
+        "SpDef": 90,
+        "Spe": 60,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "happiny": {
+        "PS": 100,
+        "Atk": 5,
+        "Def": 5,
+        "SpAtk": 15,
+        "SpDef": 65,
+        "Spe": 30,
+        "type1": "Normale",
+        "type2": null
+    },
+    "chatot": {
+        "PS": 76,
+        "Atk": 65,
+        "Def": 45,
+        "SpAtk": 92,
+        "SpDef": 42,
+        "Spe": 91,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "spiritomb": {
+        "PS": 50,
+        "Atk": 92,
+        "Def": 108,
+        "SpAtk": 92,
+        "SpDef": 108,
+        "Spe": 35,
+        "type1": "Buio",
+        "type2": "Spettro"
+    },
+    "gible": {
+        "PS": 58,
+        "Atk": 70,
+        "Def": 45,
+        "SpAtk": 40,
+        "SpDef": 45,
+        "Spe": 42,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "gabite": {
+        "PS": 68,
+        "Atk": 90,
+        "Def": 65,
+        "SpAtk": 50,
+        "SpDef": 55,
+        "Spe": 82,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "garchomp": {
+        "PS": 108,
+        "Atk": 130,
+        "Def": 95,
+        "SpAtk": 80,
+        "SpDef": 85,
+        "Spe": 102,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "munchlax": {
+        "PS": 135,
+        "Atk": 85,
+        "Def": 40,
+        "SpAtk": 40,
+        "SpDef": 85,
+        "Spe": 5,
+        "type1": "Normale",
+        "type2": null
+    },
+    "riolu": {
+        "PS": 40,
+        "Atk": 70,
+        "Def": 40,
+        "SpAtk": 35,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "lucario": {
+        "PS": 70,
+        "Atk": 110,
+        "Def": 70,
+        "SpAtk": 115,
+        "SpDef": 70,
+        "Spe": 90,
+        "type1": "Acciaio",
+        "type2": "Lotta"
+    },
+    "hippopotas": {
+        "PS": 68,
+        "Atk": 72,
+        "Def": 78,
+        "SpAtk": 38,
+        "SpDef": 42,
+        "Spe": 32,
+        "type1": "Terra",
+        "type2": null
+    },
+    "hippowdon": {
+        "PS": 108,
+        "Atk": 112,
+        "Def": 118,
+        "SpAtk": 68,
+        "SpDef": 72,
+        "Spe": 47,
+        "type1": "Terra",
+        "type2": null
+    },
+    "skorupi": {
+        "PS": 40,
+        "Atk": 50,
+        "Def": 90,
+        "SpAtk": 30,
+        "SpDef": 55,
+        "Spe": 65,
+        "type1": "Coleottero",
+        "type2": "Veleno"
+    },
+    "drapion": {
+        "PS": 70,
+        "Atk": 90,
+        "Def": 110,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Spe": 95,
+        "type1": "Buio",
+        "type2": "Veleno"
+    },
+    "croagunk": {
+        "PS": 48,
+        "Atk": 61,
+        "Def": 40,
+        "SpAtk": 61,
+        "SpDef": 40,
+        "Spe": 50,
+        "type1": "Lotta",
+        "type2": "Veleno"
+    },
+    "toxicroak": {
+        "PS": 83,
+        "Atk": 106,
+        "Def": 65,
+        "SpAtk": 86,
+        "SpDef": 65,
+        "Spe": 85,
+        "type1": "Lotta",
+        "type2": "Veleno"
+    },
+    "carnivine": {
+        "PS": 74,
+        "Atk": 100,
+        "Def": 72,
+        "SpAtk": 90,
+        "SpDef": 72,
+        "Spe": 46,
+        "type1": "Erba",
+        "type2": null
+    },
+    "finneon": {
+        "PS": 49,
+        "Atk": 49,
+        "Def": 56,
+        "SpAtk": 49,
+        "SpDef": 61,
+        "Spe": 66,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "lumineon": {
+        "PS": 69,
+        "Atk": 69,
+        "Def": 76,
+        "SpAtk": 69,
+        "SpDef": 86,
+        "Spe": 91,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "mantyke": {
+        "PS": 45,
+        "Atk": 20,
+        "Def": 50,
+        "SpAtk": 60,
+        "SpDef": 120,
+        "Spe": 50,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "snover": {
+        "PS": 60,
+        "Atk": 62,
+        "Def": 50,
+        "SpAtk": 62,
+        "SpDef": 60,
+        "Spe": 40,
+        "type1": "Ghiaccio",
+        "type2": "Erba"
+    },
+    "abomasnow": {
+        "PS": 90,
+        "Atk": 92,
+        "Def": 75,
+        "SpAtk": 92,
+        "SpDef": 85,
+        "Spe": 60,
+        "type1": "Ghiaccio",
+        "type2": "Erba"
+    },
+    "weavile": {
+        "PS": 70,
+        "Atk": 120,
+        "Def": 65,
+        "SpAtk": 45,
+        "SpDef": 85,
+        "Spe": 125,
+        "type1": "Ghiaccio",
+        "type2": "Buio"
+    },
+    "magnezone": {
+        "PS": 70,
+        "Atk": 70,
+        "Def": 115,
+        "SpAtk": 130,
+        "SpDef": 90,
+        "Spe": 60,
+        "type1": "Acciaio",
+        "type2": "Elettro"
+    },
+    "lickilicky": {
+        "PS": 110,
+        "Atk": 85,
+        "Def": 95,
+        "SpAtk": 80,
+        "SpDef": 95,
+        "Spe": 50,
+        "type1": "Normale",
+        "type2": null
+    },
+    "rhyperior": {
+        "PS": 115,
+        "Atk": 140,
+        "Def": 130,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 40,
+        "type1": "Roccia",
+        "type2": "Terra"
+    },
+    "tangrowth": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 125,
+        "SpAtk": 110,
+        "SpDef": 50,
+        "Spe": 50,
+        "type1": "Erba",
+        "type2": null
+    },
+    "electivire": {
+        "PS": 75,
+        "Atk": 123,
+        "Def": 67,
+        "SpAtk": 95,
+        "SpDef": 85,
+        "Spe": 95,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "magmortar": {
+        "PS": 75,
+        "Atk": 95,
+        "Def": 67,
+        "SpAtk": 125,
+        "SpDef": 95,
+        "Spe": 83,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "togekiss": {
+        "PS": 85,
+        "Atk": 50,
+        "Def": 95,
+        "SpAtk": 120,
+        "SpDef": 115,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Folletto"
+    },
+    "yanmega": {
+        "PS": 86,
+        "Atk": 76,
+        "Def": 86,
+        "SpAtk": 116,
+        "SpDef": 56,
+        "Spe": 95,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "leafeon": {
+        "PS": 65,
+        "Atk": 110,
+        "Def": 130,
+        "SpAtk": 60,
+        "SpDef": 65,
+        "Spe": 95,
+        "type1": "Erba",
+        "type2": null
+    },
+    "glaceon": {
+        "PS": 65,
+        "Atk": 60,
+        "Def": 110,
+        "SpAtk": 130,
+        "SpDef": 95,
+        "Spe": 65,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "gliscor": {
+        "PS": 75,
+        "Atk": 95,
+        "Def": 125,
+        "SpAtk": 45,
+        "SpDef": 75,
+        "Spe": 95,
+        "type1": "Volante",
+        "type2": "Terra"
+    },
+    "mamoswine": {
+        "PS": 110,
+        "Atk": 130,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 60,
+        "Spe": 80,
+        "type1": "Terra",
+        "type2": "Ghiaccio"
+    },
+    "porygon z": {
+        "PS": 85,
+        "Atk": 80,
+        "Def": 70,
+        "SpAtk": 135,
+        "SpDef": 75,
+        "Spe": 90,
+        "type1": "Normale",
+        "type2": null
+    },
+    "gallade": {
+        "PS": 68,
+        "Atk": 125,
+        "Def": 65,
+        "SpAtk": 65,
+        "SpDef": 115,
+        "Spe": 80,
+        "type1": "Lotta",
+        "type2": "Psico"
+    },
+    "probopass": {
+        "PS": 60,
+        "Atk": 55,
+        "Def": 145,
+        "SpAtk": 75,
+        "SpDef": 150,
+        "Spe": 40,
+        "type1": "Acciaio",
+        "type2": "Roccia"
+    },
+    "dusknoir": {
+        "PS": 45,
+        "Atk": 100,
+        "Def": 135,
+        "SpAtk": 65,
+        "SpDef": 135,
+        "Spe": 45,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "froslass": {
+        "PS": 70,
+        "Atk": 80,
+        "Def": 70,
+        "SpAtk": 80,
+        "SpDef": 70,
+        "Spe": 110,
+        "type1": "Spettro",
+        "type2": "Ghiaccio"
+    },
+    "rotom": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 77,
+        "SpAtk": 95,
+        "SpDef": 77,
+        "Spe": 91,
+        "type1": "Spettro",
+        "type2": "Elettro"
+    },
+    "uxie": {
+        "PS": 75,
+        "Atk": 75,
+        "Def": 130,
+        "SpAtk": 75,
+        "SpDef": 130,
+        "Spe": 95,
+        "type1": "Psico",
+        "type2": null
+    },
+    "mesprit": {
+        "PS": 80,
+        "Atk": 105,
+        "Def": 105,
+        "SpAtk": 105,
+        "SpDef": 105,
+        "Spe": 80,
+        "type1": "Psico",
+        "type2": null
+    },
+    "azelf": {
+        "PS": 75,
+        "Atk": 125,
+        "Def": 70,
+        "SpAtk": 125,
+        "SpDef": 70,
+        "Spe": 115,
+        "type1": "Psico",
+        "type2": null
+    },
+    "dialga": {
+        "PS": 100,
+        "Atk": 120,
+        "Def": 120,
+        "SpAtk": 150,
+        "SpDef": 100,
+        "Spe": 90,
+        "type1": "Drago",
+        "type2": "Acciaio"
+    },
+    "palkia": {
+        "PS": 90,
+        "Atk": 120,
+        "Def": 100,
+        "SpAtk": 150,
+        "SpDef": 120,
+        "Spe": 100,
+        "type1": "Drago",
+        "type2": "Acqua"
+    },
+    "heatran": {
+        "PS": 91,
+        "Atk": 90,
+        "Def": 106,
+        "SpAtk": 130,
+        "SpDef": 106,
+        "Spe": 77,
+        "type1": "Acciaio",
+        "type2": "Fuoco"
+    },
+    "regigigas": {
+        "PS": 110,
+        "Atk": 160,
+        "Def": 110,
+        "SpAtk": 80,
+        "SpDef": 110,
+        "Spe": 100,
+        "type1": "Normale",
+        "type2": null
+    },
+    "giratina": {
+        "PS": 150,
+        "Atk": 100,
+        "Def": 120,
+        "SpAtk": 100,
+        "SpDef": 120,
+        "Spe": 90,
+        "type1": "Drago",
+        "type2": "Spettro"
+    },
+    "cresselia": {
+        "PS": 120,
+        "Atk": 70,
+        "Def": 120,
+        "SpAtk": 75,
+        "SpDef": 130,
+        "Spe": 85,
+        "type1": "Psico",
+        "type2": null
+    },
+    "phione": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
+        "Spe": 80,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "manaphy": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "darkrai": {
+        "PS": 70,
+        "Atk": 90,
+        "Def": 90,
+        "SpAtk": 135,
+        "SpDef": 90,
+        "Spe": 125,
+        "type1": "Buio",
+        "type2": null
+    },
+    "shaymin": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Erba",
+        "type2": null
+    },
+    "arceus": {
+        "PS": 120,
+        "Atk": 120,
+        "Def": 120,
+        "SpAtk": 120,
+        "SpDef": 120,
+        "Spe": 120,
+        "type1": "Normale",
+        "type2": null
+    },
+    "victini": {
+        "PS": 100,
+        "Atk": 100,
+        "Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Fuoco",
+        "type2": "Psico"
+    },
+    "snivy": {
+        "PS": 45,
+        "Atk": 45,
+        "Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 63,
+        "type1": "Erba",
+        "type2": null
+    },
+    "servine": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Spe": 83,
+        "type1": "Erba",
+        "type2": null
+    },
+    "serperior": {
+        "PS": 75,
+        "Atk": 75,
+        "Def": 95,
+        "SpAtk": 75,
+        "SpDef": 95,
+        "Spe": 113,
+        "type1": "Erba",
+        "type2": null
+    },
+    "tepig": {
+        "PS": 65,
+        "Atk": 63,
+        "Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 45,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "pignite": {
+        "PS": 90,
+        "Atk": 93,
+        "Def": 55,
+        "SpAtk": 70,
+        "SpDef": 55,
+        "Spe": 55,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "emboar": {
+        "PS": 110,
+        "Atk": 123,
+        "Def": 65,
+        "SpAtk": 100,
+        "SpDef": 65,
+        "Spe": 65,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "oshawott": {
+        "PS": 55,
+        "Atk": 55,
+        "Def": 45,
+        "SpAtk": 63,
+        "SpDef": 45,
+        "Spe": 45,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "dewott": {
+        "PS": 75,
+        "Atk": 75,
+        "Def": 60,
+        "SpAtk": 83,
+        "SpDef": 60,
+        "Spe": 60,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "samurott": {
+        "PS": 95,
+        "Atk": 100,
+        "Def": 85,
+        "SpAtk": 108,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "patrat": {
+        "PS": 45,
+        "Atk": 55,
+        "Def": 39,
+        "SpAtk": 35,
+        "SpDef": 39,
+        "Spe": 42,
+        "type1": "Normale",
+        "type2": null
+    },
+    "watchog": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 69,
+        "SpAtk": 60,
+        "SpDef": 69,
+        "Spe": 77,
+        "type1": "Normale",
+        "type2": null
+    },
+    "lillipup": {
+        "PS": 45,
+        "Atk": 60,
+        "Def": 45,
+        "SpAtk": 25,
+        "SpDef": 45,
+        "Spe": 55,
+        "type1": "Normale",
+        "type2": null
+    },
+    "herdier": {
+        "PS": 65,
+        "Atk": 80,
+        "Def": 65,
+        "SpAtk": 35,
+        "SpDef": 65,
+        "Spe": 60,
+        "type1": "Normale",
+        "type2": null
+    },
+    "stoutland": {
+        "PS": 85,
+        "Atk": 110,
+        "Def": 90,
+        "SpAtk": 45,
+        "SpDef": 90,
+        "Spe": 80,
+        "type1": "Normale",
+        "type2": null
+    },
+    "purrloin": {
+        "PS": 41,
+        "Atk": 50,
+        "Def": 37,
+        "SpAtk": 50,
+        "SpDef": 37,
+        "Spe": 66,
+        "type1": "Buio",
+        "type2": null
+    },
+    "liepard": {
+        "PS": 64,
+        "Atk": 88,
+        "Def": 50,
+        "SpAtk": 88,
+        "SpDef": 50,
+        "Spe": 106,
+        "type1": "Buio",
+        "type2": null
+    },
+    "pansage": {
+        "PS": 50,
+        "Atk": 53,
+        "Def": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Spe": 64,
+        "type1": "Erba",
+        "type2": null
+    },
+    "simisage": {
+        "PS": 75,
+        "Atk": 98,
+        "Def": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Spe": 101,
+        "type1": "Erba",
+        "type2": null
+    },
+    "pansear": {
+        "PS": 50,
+        "Atk": 53,
+        "Def": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Spe": 64,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "simisear": {
+        "PS": 75,
+        "Atk": 98,
+        "Def": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Spe": 101,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "panpour": {
+        "PS": 50,
+        "Atk": 53,
+        "Def": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Spe": 64,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "simipour": {
+        "PS": 75,
+        "Atk": 98,
+        "Def": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Spe": 101,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "munna": {
+        "PS": 76,
+        "Atk": 25,
+        "Def": 45,
+        "SpAtk": 67,
+        "SpDef": 55,
+        "Spe": 24,
+        "type1": "Psico",
+        "type2": null
+    },
+    "musharna": {
+        "PS": 116,
+        "Atk": 55,
+        "Def": 85,
+        "SpAtk": 107,
+        "SpDef": 95,
+        "Spe": 29,
+        "type1": "Psico",
+        "type2": null
+    },
+    "pidove": {
+        "PS": 50,
+        "Atk": 55,
+        "Def": 50,
+        "SpAtk": 36,
+        "SpDef": 30,
+        "Spe": 43,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "tranquill": {
+        "PS": 62,
+        "Atk": 77,
+        "Def": 62,
+        "SpAtk": 50,
+        "SpDef": 42,
+        "Spe": 65,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "unfezant": {
+        "PS": 80,
+        "Atk": 115,
+        "Def": 80,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 93,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "blitzle": {
+        "PS": 45,
+        "Atk": 60,
+        "Def": 32,
+        "SpAtk": 50,
+        "SpDef": 32,
+        "Spe": 76,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "zebstrika": {
+        "PS": 75,
+        "Atk": 100,
+        "Def": 63,
+        "SpAtk": 80,
+        "SpDef": 63,
+        "Spe": 116,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "roggenrola": {
+        "PS": 55,
+        "Atk": 75,
+        "Def": 85,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 15,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "boldore": {
+        "PS": 70,
+        "Atk": 105,
+        "Def": 105,
+        "SpAtk": 50,
+        "SpDef": 40,
+        "Spe": 20,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "gigalith": {
+        "PS": 85,
+        "Atk": 135,
+        "Def": 130,
+        "SpAtk": 60,
+        "SpDef": 80,
+        "Spe": 25,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "woobat": {
+        "PS": 65,
+        "Atk": 45,
+        "Def": 43,
+        "SpAtk": 55,
+        "SpDef": 43,
+        "Spe": 72,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "swoobat": {
+        "PS": 67,
+        "Atk": 57,
+        "Def": 55,
+        "SpAtk": 77,
+        "SpDef": 55,
+        "Spe": 114,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "drilbur": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 40,
+        "SpAtk": 30,
+        "SpDef": 45,
+        "Spe": 68,
+        "type1": "Terra",
+        "type2": null
+    },
+    "excadrill": {
+        "PS": 110,
+        "Atk": 135,
+        "Def": 60,
+        "SpAtk": 50,
+        "SpDef": 65,
+        "Spe": 88,
+        "type1": "Acciaio",
+        "type2": "Terra"
+    },
+    "audino": {
+        "PS": 103,
+        "Atk": 60,
+        "Def": 86,
+        "SpAtk": 60,
+        "SpDef": 86,
+        "Spe": 50,
+        "type1": "Normale",
+        "type2": null
+    },
+    "timburr": {
+        "PS": 75,
+        "Atk": 80,
+        "Def": 55,
+        "SpAtk": 25,
+        "SpDef": 35,
+        "Spe": 35,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "gurdurr": {
+        "PS": 85,
+        "Atk": 105,
+        "Def": 85,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 40,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "conkeldurr": {
+        "PS": 105,
+        "Atk": 140,
+        "Def": 95,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "tympole": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 40,
+        "SpAtk": 50,
+        "SpDef": 40,
+        "Spe": 64,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "palpitoad": {
+        "PS": 75,
+        "Atk": 65,
+        "Def": 55,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 69,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "seismitoad": {
+        "PS": 105,
+        "Atk": 95,
+        "Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 74,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "throh": {
+        "PS": 120,
+        "Atk": 100,
+        "Def": 85,
+        "SpAtk": 30,
+        "SpDef": 85,
+        "Spe": 45,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "sawk": {
+        "PS": 75,
+        "Atk": 125,
+        "Def": 75,
+        "SpAtk": 30,
+        "SpDef": 75,
+        "Spe": 85,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "sewaddle": {
+        "PS": 45,
+        "Atk": 53,
+        "Def": 70,
+        "SpAtk": 40,
+        "SpDef": 60,
+        "Spe": 42,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "swadloon": {
+        "PS": 55,
+        "Atk": 63,
+        "Def": 90,
+        "SpAtk": 50,
+        "SpDef": 80,
+        "Spe": 42,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "leavanny": {
+        "PS": 75,
+        "Atk": 103,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Spe": 92,
+        "type1": "Erba",
+        "type2": "Coleottero"
+    },
+    "venipede": {
+        "PS": 30,
+        "Atk": 45,
+        "Def": 59,
+        "SpAtk": 30,
+        "SpDef": 39,
+        "Spe": 57,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "whirlipede": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 99,
+        "SpAtk": 40,
+        "SpDef": 79,
+        "Spe": 47,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "scolipede": {
+        "PS": 60,
+        "Atk": 100,
+        "Def": 89,
+        "SpAtk": 55,
+        "SpDef": 69,
+        "Spe": 112,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "cottonee": {
+        "PS": 40,
+        "Atk": 27,
+        "Def": 60,
+        "SpAtk": 37,
+        "SpDef": 50,
+        "Spe": 66,
+        "type1": "Folletto",
+        "type2": "Erba"
+    },
+    "whimsicott": {
+        "PS": 60,
+        "Atk": 67,
+        "Def": 85,
+        "SpAtk": 77,
+        "SpDef": 75,
+        "Spe": 116,
+        "type1": "Folletto",
+        "type2": "Erba"
+    },
+    "petilil": {
+        "PS": 45,
+        "Atk": 35,
+        "Def": 50,
+        "SpAtk": 70,
+        "SpDef": 50,
+        "Spe": 30,
+        "type1": "Erba",
+        "type2": null
+    },
+    "lilligant": {
+        "PS": 70,
+        "Atk": 60,
+        "Def": 75,
+        "SpAtk": 110,
+        "SpDef": 75,
+        "Spe": 90,
+        "type1": "Erba",
+        "type2": null
+    },
+    "basculin": {
+        "PS": 70,
+        "Atk": 92,
+        "Def": 65,
+        "SpAtk": 80,
+        "SpDef": 55,
+        "Spe": 98,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "sandile": {
+        "PS": 50,
+        "Atk": 72,
+        "Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 65,
+        "type1": "Buio",
+        "type2": "Terra"
+    },
+    "krokorok": {
+        "PS": 60,
+        "Atk": 82,
+        "Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 74,
+        "type1": "Buio",
+        "type2": "Terra"
+    },
+    "krookodile": {
+        "PS": 95,
+        "Atk": 117,
+        "Def": 80,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Spe": 92,
+        "type1": "Buio",
+        "type2": "Terra"
+    },
+    "darumaka": {
+        "PS": 70,
+        "Atk": 90,
+        "Def": 45,
+        "SpAtk": 15,
+        "SpDef": 45,
+        "Spe": 50,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "darmanitan": {
+        "PS": 105,
+        "Atk": 140,
+        "Def": 55,
+        "SpAtk": 30,
+        "SpDef": 55,
+        "Spe": 95,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "maractus": {
+        "PS": 75,
+        "Atk": 86,
+        "Def": 67,
+        "SpAtk": 106,
+        "SpDef": 67,
+        "Spe": 60,
+        "type1": "Erba",
+        "type2": null
+    },
+    "dwebble": {
+        "PS": 50,
+        "Atk": 65,
+        "Def": 85,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Spe": 55,
+        "type1": "Roccia",
+        "type2": "Coleottero"
+    },
+    "crustle": {
+        "PS": 70,
+        "Atk": 105,
+        "Def": 125,
+        "SpAtk": 65,
+        "SpDef": 75,
+        "Spe": 45,
+        "type1": "Roccia",
+        "type2": "Coleottero"
+    },
+    "scraggy": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 70,
+        "SpAtk": 35,
+        "SpDef": 70,
+        "Spe": 48,
+        "type1": "Lotta",
+        "type2": "Buio"
+    },
+    "scrafty": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 115,
+        "SpAtk": 45,
+        "SpDef": 115,
+        "Spe": 58,
+        "type1": "Lotta",
+        "type2": "Buio"
+    },
+    "sigilyph": {
+        "PS": 72,
+        "Atk": 58,
+        "Def": 80,
+        "SpAtk": 103,
+        "SpDef": 80,
+        "Spe": 97,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "yamask": {
+        "PS": 38,
+        "Atk": 30,
+        "Def": 85,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 30,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "cofagrigus": {
+        "PS": 58,
+        "Atk": 50,
+        "Def": 145,
+        "SpAtk": 95,
+        "SpDef": 105,
+        "Spe": 30,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "tirtouga": {
+        "PS": 54,
+        "Atk": 78,
+        "Def": 103,
+        "SpAtk": 53,
+        "SpDef": 45,
+        "Spe": 22,
+        "type1": "Roccia",
+        "type2": "Acqua"
+    },
+    "carracosta": {
+        "PS": 74,
+        "Atk": 108,
+        "Def": 133,
+        "SpAtk": 83,
+        "SpDef": 65,
+        "Spe": 32,
+        "type1": "Roccia",
+        "type2": "Acqua"
+    },
+    "archen": {
+        "PS": 55,
+        "Atk": 112,
+        "Def": 45,
+        "SpAtk": 74,
+        "SpDef": 45,
+        "Spe": 70,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "archeops": {
+        "PS": 75,
+        "Atk": 140,
+        "Def": 65,
+        "SpAtk": 112,
+        "SpDef": 65,
+        "Spe": 110,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "trubbish": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 62,
+        "SpAtk": 40,
+        "SpDef": 62,
+        "Spe": 65,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "garbodor": {
+        "PS": 80,
+        "Atk": 95,
+        "Def": 82,
+        "SpAtk": 60,
+        "SpDef": 82,
+        "Spe": 75,
+        "type1": "Veleno",
+        "type2": null
+    },
+    "zorua": {
+        "PS": 40,
+        "Atk": 65,
+        "Def": 40,
+        "SpAtk": 80,
+        "SpDef": 40,
+        "Spe": 65,
+        "type1": "Buio",
+        "type2": null
+    },
+    "zoroark": {
+        "PS": 60,
+        "Atk": 105,
+        "Def": 60,
+        "SpAtk": 120,
+        "SpDef": 60,
+        "Spe": 105,
+        "type1": "Buio",
+        "type2": null
+    },
+    "minccino": {
+        "PS": 55,
+        "Atk": 50,
+        "Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 75,
+        "type1": "Normale",
+        "type2": null
+    },
+    "cinccino": {
+        "PS": 75,
+        "Atk": 95,
+        "Def": 60,
+        "SpAtk": 65,
+        "SpDef": 60,
+        "Spe": 115,
+        "type1": "Normale",
+        "type2": null
+    },
+    "gothita": {
+        "PS": 45,
+        "Atk": 30,
+        "Def": 50,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Psico",
+        "type2": null
+    },
+    "gothorita": {
+        "PS": 60,
+        "Atk": 45,
+        "Def": 70,
+        "SpAtk": 75,
+        "SpDef": 85,
+        "Spe": 55,
+        "type1": "Psico",
+        "type2": null
+    },
+    "gothitelle": {
+        "PS": 70,
+        "Atk": 55,
+        "Def": 95,
+        "SpAtk": 95,
+        "SpDef": 110,
+        "Spe": 65,
+        "type1": "Psico",
+        "type2": null
+    },
+    "solosis": {
+        "PS": 45,
+        "Atk": 30,
+        "Def": 40,
+        "SpAtk": 105,
+        "SpDef": 50,
+        "Spe": 20,
+        "type1": "Psico",
+        "type2": null
+    },
+    "duosion": {
+        "PS": 65,
+        "Atk": 40,
+        "Def": 50,
+        "SpAtk": 125,
+        "SpDef": 60,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": null
+    },
+    "reuniclus": {
+        "PS": 110,
+        "Atk": 65,
+        "Def": 75,
+        "SpAtk": 125,
+        "SpDef": 85,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": null
+    },
+    "ducklett": {
+        "PS": 62,
+        "Atk": 44,
+        "Def": 50,
+        "SpAtk": 44,
+        "SpDef": 50,
+        "Spe": 55,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "swanna": {
+        "PS": 75,
+        "Atk": 87,
+        "Def": 63,
+        "SpAtk": 87,
+        "SpDef": 63,
+        "Spe": 98,
+        "type1": "Volante",
+        "type2": "Acqua"
+    },
+    "vanillite": {
+        "PS": 36,
+        "Atk": 50,
+        "Def": 50,
+        "SpAtk": 65,
+        "SpDef": 60,
+        "Spe": 44,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "vanillish": {
+        "PS": 51,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 80,
+        "SpDef": 75,
+        "Spe": 59,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "vanilluxe": {
+        "PS": 71,
+        "Atk": 95,
+        "Def": 85,
+        "SpAtk": 110,
+        "SpDef": 95,
+        "Spe": 79,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "deerling": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 75,
+        "type1": "Erba",
+        "type2": "Normale"
+    },
+    "sawsbuck": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 95,
+        "type1": "Erba",
+        "type2": "Normale"
+    },
+    "emolga": {
+        "PS": 55,
+        "Atk": 75,
+        "Def": 60,
+        "SpAtk": 75,
+        "SpDef": 60,
+        "Spe": 103,
+        "type1": "Volante",
+        "type2": "Elettro"
+    },
+    "karrablast": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 45,
+        "SpAtk": 40,
+        "SpDef": 45,
+        "Spe": 60,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "escavalier": {
+        "PS": 70,
+        "Atk": 135,
+        "Def": 105,
+        "SpAtk": 60,
+        "SpDef": 105,
+        "Spe": 20,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "foongus": {
+        "PS": 69,
+        "Atk": 55,
+        "Def": 45,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Spe": 15,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "amoonguss": {
+        "PS": 114,
+        "Atk": 85,
+        "Def": 70,
+        "SpAtk": 85,
+        "SpDef": 80,
+        "Spe": 30,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "frillish": {
+        "PS": 55,
+        "Atk": 40,
+        "Def": 50,
+        "SpAtk": 65,
+        "SpDef": 85,
+        "Spe": 40,
+        "type1": "Spettro",
+        "type2": "Acqua"
+    },
+    "jellicent": {
+        "PS": 100,
+        "Atk": 60,
+        "Def": 70,
+        "SpAtk": 85,
+        "SpDef": 105,
+        "Spe": 60,
+        "type1": "Spettro",
+        "type2": "Acqua"
+    },
+    "alomomola": {
+        "PS": 165,
+        "Atk": 75,
+        "Def": 80,
+        "SpAtk": 40,
+        "SpDef": 45,
+        "Spe": 65,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "joltik": {
+        "PS": 50,
+        "Atk": 47,
+        "Def": 50,
+        "SpAtk": 57,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Elettro",
+        "type2": "Coleottero"
+    },
+    "galvantula": {
+        "PS": 70,
+        "Atk": 77,
+        "Def": 60,
+        "SpAtk": 97,
+        "SpDef": 60,
+        "Spe": 108,
+        "type1": "Elettro",
+        "type2": "Coleottero"
+    },
+    "ferroseed": {
+        "PS": 44,
+        "Atk": 50,
+        "Def": 91,
+        "SpAtk": 24,
+        "SpDef": 86,
+        "Spe": 10,
+        "type1": "Acciaio",
+        "type2": "Erba"
+    },
+    "ferrothorn": {
+        "PS": 74,
+        "Atk": 94,
+        "Def": 131,
+        "SpAtk": 54,
+        "SpDef": 116,
+        "Spe": 20,
+        "type1": "Acciaio",
+        "type2": "Erba"
+    },
+    "klink": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 70,
+        "SpAtk": 45,
+        "SpDef": 60,
+        "Spe": 30,
+        "type1": "Acciaio",
+        "type2": null
+    },
+    "klang": {
+        "PS": 60,
+        "Atk": 80,
+        "Def": 95,
+        "SpAtk": 70,
+        "SpDef": 85,
+        "Spe": 50,
+        "type1": "Acciaio",
+        "type2": null
+    },
+    "klinklang": {
+        "PS": 60,
+        "Atk": 100,
+        "Def": 115,
+        "SpAtk": 70,
+        "SpDef": 85,
+        "Spe": 90,
+        "type1": "Acciaio",
+        "type2": null
+    },
+    "tynamo": {
+        "PS": 35,
+        "Atk": 55,
+        "Def": 40,
+        "SpAtk": 45,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "eelektrik": {
+        "PS": 65,
+        "Atk": 85,
+        "Def": 70,
+        "SpAtk": 75,
+        "SpDef": 70,
+        "Spe": 40,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "eelektross": {
+        "PS": 85,
+        "Atk": 115,
+        "Def": 80,
+        "SpAtk": 105,
+        "SpDef": 80,
+        "Spe": 50,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "elgyem": {
+        "PS": 55,
+        "Atk": 55,
+        "Def": 55,
+        "SpAtk": 85,
+        "SpDef": 55,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": null
+    },
+    "beheeyem": {
+        "PS": 75,
+        "Atk": 75,
+        "Def": 75,
+        "SpAtk": 125,
+        "SpDef": 95,
+        "Spe": 40,
+        "type1": "Psico",
+        "type2": null
+    },
+    "litwick": {
+        "PS": 50,
+        "Atk": 30,
+        "Def": 55,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Spe": 20,
+        "type1": "Fuoco",
+        "type2": "Spettro"
+    },
+    "lampent": {
+        "PS": 60,
+        "Atk": 40,
+        "Def": 60,
+        "SpAtk": 95,
+        "SpDef": 60,
+        "Spe": 55,
+        "type1": "Fuoco",
+        "type2": "Spettro"
+    },
+    "chandelure": {
+        "PS": 60,
+        "Atk": 55,
+        "Def": 90,
+        "SpAtk": 145,
+        "SpDef": 90,
+        "Spe": 80,
+        "type1": "Fuoco",
+        "type2": "Spettro"
+    },
+    "axew": {
+        "PS": 46,
+        "Atk": 87,
+        "Def": 60,
+        "SpAtk": 30,
+        "SpDef": 40,
+        "Spe": 57,
+        "type1": "Drago",
+        "type2": null
+    },
+    "fraxure": {
+        "PS": 66,
+        "Atk": 117,
+        "Def": 70,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 67,
+        "type1": "Drago",
+        "type2": null
+    },
+    "haxorus": {
+        "PS": 76,
+        "Atk": 147,
+        "Def": 90,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 97,
+        "type1": "Drago",
+        "type2": null
+    },
+    "cubchoo": {
+        "PS": 55,
+        "Atk": 70,
+        "Def": 40,
+        "SpAtk": 60,
+        "SpDef": 40,
+        "Spe": 40,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "beartic": {
+        "PS": 95,
+        "Atk": 130,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Spe": 50,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "cryogonal": {
+        "PS": 80,
+        "Atk": 50,
+        "Def": 50,
+        "SpAtk": 95,
+        "SpDef": 135,
+        "Spe": 105,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "shelmet": {
+        "PS": 50,
+        "Atk": 40,
+        "Def": 85,
+        "SpAtk": 40,
+        "SpDef": 65,
+        "Spe": 25,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "accelgor": {
+        "PS": 80,
+        "Atk": 70,
+        "Def": 40,
+        "SpAtk": 100,
+        "SpDef": 60,
+        "Spe": 145,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "stunfisk": {
+        "PS": 109,
+        "Atk": 66,
+        "Def": 84,
+        "SpAtk": 81,
+        "SpDef": 99,
+        "Spe": 32,
+        "type1": "Elettro",
+        "type2": "Terra"
+    },
+    "mienfoo": {
+        "PS": 45,
+        "Atk": 85,
+        "Def": 50,
+        "SpAtk": 55,
+        "SpDef": 50,
+        "Spe": 65,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "mienshao": {
+        "PS": 65,
+        "Atk": 125,
+        "Def": 60,
+        "SpAtk": 95,
+        "SpDef": 60,
+        "Spe": 105,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "druddigon": {
+        "PS": 77,
+        "Atk": 120,
+        "Def": 90,
+        "SpAtk": 60,
+        "SpDef": 90,
+        "Spe": 48,
+        "type1": "Drago",
+        "type2": null
+    },
+    "golett": {
+        "PS": 59,
+        "Atk": 74,
+        "Def": 50,
+        "SpAtk": 35,
+        "SpDef": 50,
+        "Spe": 35,
+        "type1": "Spettro",
+        "type2": "Terra"
+    },
+    "golurk": {
+        "PS": 89,
+        "Atk": 124,
+        "Def": 80,
+        "SpAtk": 55,
+        "SpDef": 80,
+        "Spe": 55,
+        "type1": "Spettro",
+        "type2": "Terra"
+    },
+    "pawniard": {
+        "PS": 45,
+        "Atk": 85,
+        "Def": 70,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Acciaio",
+        "type2": "Buio"
+    },
+    "bisharp": {
+        "PS": 65,
+        "Atk": 125,
+        "Def": 100,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Spe": 70,
+        "type1": "Acciaio",
+        "type2": "Buio"
+    },
+    "bouffalant": {
+        "PS": 95,
+        "Atk": 110,
+        "Def": 95,
+        "SpAtk": 40,
+        "SpDef": 95,
+        "Spe": 55,
+        "type1": "Normale",
+        "type2": null
+    },
+    "rufflet": {
+        "PS": 70,
+        "Atk": 83,
+        "Def": 50,
+        "SpAtk": 37,
+        "SpDef": 50,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "braviary": {
+        "PS": 100,
+        "Atk": 123,
+        "Def": 75,
+        "SpAtk": 57,
+        "SpDef": 75,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "vullaby": {
+        "PS": 70,
+        "Atk": 55,
+        "Def": 75,
+        "SpAtk": 45,
+        "SpDef": 65,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Buio"
+    },
+    "mandibuzz": {
+        "PS": 110,
+        "Atk": 65,
+        "Def": 105,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Spe": 80,
+        "type1": "Volante",
+        "type2": "Buio"
+    },
+    "heatmor": {
+        "PS": 85,
+        "Atk": 97,
+        "Def": 66,
+        "SpAtk": 105,
+        "SpDef": 66,
+        "Spe": 65,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "durant": {
+        "PS": 58,
+        "Atk": 109,
+        "Def": 112,
+        "SpAtk": 48,
+        "SpDef": 48,
+        "Spe": 109,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "deino": {
+        "PS": 52,
+        "Atk": 65,
+        "Def": 50,
+        "SpAtk": 45,
+        "SpDef": 50,
+        "Spe": 38,
+        "type1": "Drago",
+        "type2": "Buio"
+    },
+    "zweilous": {
+        "PS": 72,
+        "Atk": 85,
+        "Def": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Spe": 58,
+        "type1": "Drago",
+        "type2": "Buio"
+    },
+    "hydreigon": {
+        "PS": 92,
+        "Atk": 105,
+        "Def": 90,
+        "SpAtk": 125,
+        "SpDef": 90,
+        "Spe": 98,
+        "type1": "Drago",
+        "type2": "Buio"
+    },
+    "larvesta": {
+        "PS": 55,
+        "Atk": 85,
+        "Def": 55,
+        "SpAtk": 50,
+        "SpDef": 55,
+        "Spe": 60,
+        "type1": "Fuoco",
+        "type2": "Coleottero"
+    },
+    "volcarona": {
+        "PS": 85,
+        "Atk": 60,
+        "Def": 65,
+        "SpAtk": 135,
+        "SpDef": 105,
+        "Spe": 100,
+        "type1": "Fuoco",
+        "type2": "Coleottero"
+    },
+    "cobalion": {
+        "PS": 91,
+        "Atk": 90,
+        "Def": 129,
+        "SpAtk": 90,
+        "SpDef": 72,
+        "Spe": 108,
+        "type1": "Lotta",
+        "type2": "Acciaio"
+    },
+    "terrakion": {
+        "PS": 91,
+        "Atk": 129,
+        "Def": 90,
+        "SpAtk": 72,
+        "SpDef": 90,
+        "Spe": 108,
+        "type1": "Lotta",
+        "type2": "Roccia"
+    },
+    "virizion": {
+        "PS": 91,
+        "Atk": 90,
+        "Def": 72,
+        "SpAtk": 90,
+        "SpDef": 129,
+        "Spe": 108,
+        "type1": "Lotta",
+        "type2": "Erba"
+    },
+    "tornadus": {
+        "PS": 79,
+        "Atk": 115,
+        "Def": 70,
+        "SpAtk": 125,
+        "SpDef": 80,
+        "Spe": 111,
+        "type1": "Volante",
+        "type2": null
+    },
+    "thundurus": {
+        "PS": 79,
+        "Atk": 115,
+        "Def": 70,
+        "SpAtk": 125,
+        "SpDef": 80,
+        "Spe": 111,
+        "type1": "Volante",
+        "type2": "Elettro"
+    },
+    "reshiram": {
+        "PS": 100,
+        "Atk": 120,
+        "Def": 100,
+        "SpAtk": 150,
+        "SpDef": 120,
+        "Spe": 90,
+        "type1": "Fuoco",
+        "type2": "Drago"
+    },
+    "zekrom": {
+        "PS": 100,
+        "Atk": 150,
+        "Def": 120,
+        "SpAtk": 120,
+        "SpDef": 100,
+        "Spe": 90,
+        "type1": "Elettro",
+        "type2": "Drago"
+    },
+    "landorus": {
+        "PS": 89,
+        "Atk": 125,
+        "Def": 90,
+        "SpAtk": 115,
+        "SpDef": 80,
+        "Spe": 101,
+        "type1": "Volante",
+        "type2": "Terra"
+    },
+    "kyurem": {
+        "PS": 125,
+        "Atk": 130,
+        "Def": 90,
+        "SpAtk": 130,
+        "SpDef": 90,
+        "Spe": 95,
+        "type1": "Ghiaccio",
+        "type2": "Drago"
+    },
+    "keldeo": {
+        "PS": 91,
+        "Atk": 72,
+        "Def": 90,
+        "SpAtk": 129,
+        "SpDef": 90,
+        "Spe": 108,
+        "type1": "Lotta",
+        "type2": "Acqua"
+    },
+    "meloetta": {
+        "PS": 100,
+        "Atk": 77,
+        "Def": 77,
+        "SpAtk": 128,
+        "SpDef": 128,
+        "Spe": 90,
+        "type1": "Psico",
+        "type2": "Normale"
+    },
+    "genesect": {
+        "PS": 71,
+        "Atk": 120,
+        "Def": 95,
+        "SpAtk": 120,
+        "SpDef": 95,
+        "Spe": 99,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "chespin": {
+        "PS": 56,
+        "Atk": 61,
+        "Def": 65,
+        "SpAtk": 48,
+        "SpDef": 45,
+        "Spe": 38,
+        "type1": "Erba",
+        "type2": null
+    },
+    "quilladin": {
+        "PS": 61,
+        "Atk": 78,
+        "Def": 95,
+        "SpAtk": 56,
+        "SpDef": 58,
+        "Spe": 57,
+        "type1": "Erba",
+        "type2": null
+    },
+    "chesnaught": {
+        "PS": 88,
+        "Atk": 107,
+        "Def": 122,
+        "SpAtk": 74,
+        "SpDef": 75,
+        "Spe": 64,
+        "type1": "Lotta",
+        "type2": "Erba"
+    },
+    "fennekin": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 40,
+        "SpAtk": 62,
+        "SpDef": 60,
+        "Spe": 60,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "braixen": {
+        "PS": 59,
+        "Atk": 59,
+        "Def": 58,
+        "SpAtk": 90,
+        "SpDef": 70,
+        "Spe": 73,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "delphox": {
+        "PS": 75,
+        "Atk": 69,
+        "Def": 72,
+        "SpAtk": 114,
+        "SpDef": 100,
+        "Spe": 104,
+        "type1": "Psico",
+        "type2": "Fuoco"
+    },
+    "froakie": {
+        "PS": 41,
+        "Atk": 56,
+        "Def": 40,
+        "SpAtk": 62,
+        "SpDef": 44,
+        "Spe": 71,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "frogadier": {
+        "PS": 54,
+        "Atk": 63,
+        "Def": 52,
+        "SpAtk": 83,
+        "SpDef": 56,
+        "Spe": 97,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "greninja": {
+        "PS": 72,
+        "Atk": 95,
+        "Def": 67,
+        "SpAtk": 103,
+        "SpDef": 71,
+        "Spe": 122,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "bunnelby": {
+        "PS": 38,
+        "Atk": 36,
+        "Def": 38,
+        "SpAtk": 32,
+        "SpDef": 36,
+        "Spe": 57,
+        "type1": "Normale",
+        "type2": null
+    },
+    "diggersby": {
+        "PS": 85,
+        "Atk": 56,
+        "Def": 77,
+        "SpAtk": 50,
+        "SpDef": 77,
+        "Spe": 78,
+        "type1": "Terra",
+        "type2": "Normale"
+    },
+    "fletchling": {
+        "PS": 45,
+        "Atk": 50,
+        "Def": 43,
+        "SpAtk": 40,
+        "SpDef": 38,
+        "Spe": 62,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "fletchinder": {
+        "PS": 62,
+        "Atk": 73,
+        "Def": 55,
+        "SpAtk": 56,
+        "SpDef": 52,
+        "Spe": 84,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "talonflame": {
+        "PS": 78,
+        "Atk": 81,
+        "Def": 71,
+        "SpAtk": 74,
+        "SpDef": 69,
+        "Spe": 126,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "scatterbug": {
+        "PS": 38,
+        "Atk": 35,
+        "Def": 40,
+        "SpAtk": 27,
+        "SpDef": 25,
+        "Spe": 35,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "spewpa": {
+        "PS": 45,
+        "Atk": 22,
+        "Def": 60,
+        "SpAtk": 27,
+        "SpDef": 30,
+        "Spe": 29,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "vivillon": {
+        "PS": 80,
+        "Atk": 52,
+        "Def": 50,
+        "SpAtk": 90,
+        "SpDef": 50,
+        "Spe": 89,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "litleo": {
+        "PS": 62,
+        "Atk": 50,
+        "Def": 58,
+        "SpAtk": 73,
+        "SpDef": 54,
+        "Spe": 72,
+        "type1": "Normale",
+        "type2": "Fuoco"
+    },
+    "pyroar": {
+        "PS": 86,
+        "Atk": 68,
+        "Def": 72,
+        "SpAtk": 109,
+        "SpDef": 66,
+        "Spe": 106,
+        "type1": "Normale",
+        "type2": "Fuoco"
+    },
+    "flabebe": {
+        "PS": 44,
+        "Atk": 38,
+        "Def": 39,
+        "SpAtk": 61,
+        "SpDef": 79,
+        "Spe": 42,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "floette": {
+        "PS": 54,
+        "Atk": 45,
+        "Def": 47,
+        "SpAtk": 75,
+        "SpDef": 98,
+        "Spe": 52,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "florges": {
+        "PS": 78,
+        "Atk": 65,
+        "Def": 68,
+        "SpAtk": 112,
+        "SpDef": 154,
+        "Spe": 75,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "skiddo": {
+        "PS": 66,
+        "Atk": 65,
+        "Def": 48,
+        "SpAtk": 62,
+        "SpDef": 57,
+        "Spe": 52,
+        "type1": "Erba",
+        "type2": null
+    },
+    "gogoat": {
+        "PS": 123,
+        "Atk": 100,
+        "Def": 62,
+        "SpAtk": 97,
+        "SpDef": 81,
+        "Spe": 68,
+        "type1": "Erba",
+        "type2": null
+    },
+    "pancham": {
+        "PS": 67,
+        "Atk": 82,
+        "Def": 62,
+        "SpAtk": 46,
+        "SpDef": 48,
+        "Spe": 43,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "pangoro": {
+        "PS": 95,
+        "Atk": 124,
+        "Def": 78,
+        "SpAtk": 69,
+        "SpDef": 71,
+        "Spe": 58,
+        "type1": "Buio",
+        "type2": "Lotta"
+    },
+    "furfrou": {
+        "PS": 75,
+        "Atk": 80,
+        "Def": 60,
+        "SpAtk": 65,
+        "SpDef": 90,
+        "Spe": 102,
+        "type1": "Normale",
+        "type2": null
+    },
+    "espurr": {
+        "PS": 62,
+        "Atk": 48,
+        "Def": 54,
+        "SpAtk": 63,
+        "SpDef": 60,
+        "Spe": 68,
+        "type1": "Psico",
+        "type2": null
+    },
+    "meowstic": {
+        "PS": 74,
+        "Atk": 48,
+        "Def": 76,
+        "SpAtk": 83,
+        "SpDef": 81,
+        "Spe": 104,
+        "type1": "Psico",
+        "type2": null
+    },
+    "honedge": {
+        "PS": 45,
+        "Atk": 80,
+        "Def": 100,
+        "SpAtk": 35,
+        "SpDef": 37,
+        "Spe": 28,
+        "type1": "Spettro",
+        "type2": "Acciaio"
+    },
+    "doublade": {
+        "PS": 59,
+        "Atk": 110,
+        "Def": 150,
+        "SpAtk": 45,
+        "SpDef": 49,
+        "Spe": 35,
+        "type1": "Spettro",
+        "type2": "Acciaio"
+    },
+    "aegislash scudo": {
+        "PS": 60,
+        "Atk": 50,
+        "Def": 150,
+        "SpAtk": 50,
+        "SpDef": 150,
+        "Spe": 60,
+        "type1": "Spettro",
+        "type2": "Acciaio"
+    },
+    "spritzee": {
+        "PS": 78,
+        "Atk": 52,
+        "Def": 60,
+        "SpAtk": 63,
+        "SpDef": 65,
+        "Spe": 23,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "aromatisse": {
+        "PS": 101,
+        "Atk": 72,
+        "Def": 72,
+        "SpAtk": 99,
+        "SpDef": 89,
+        "Spe": 29,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "swirlix": {
+        "PS": 62,
+        "Atk": 48,
+        "Def": 66,
+        "SpAtk": 59,
+        "SpDef": 57,
+        "Spe": 49,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "slurpuff": {
+        "PS": 82,
+        "Atk": 80,
+        "Def": 86,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Spe": 72,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "inkay": {
+        "PS": 53,
+        "Atk": 54,
+        "Def": 53,
+        "SpAtk": 37,
+        "SpDef": 46,
+        "Spe": 45,
+        "type1": "Psico",
+        "type2": "Buio"
+    },
+    "malamar": {
+        "PS": 86,
+        "Atk": 92,
+        "Def": 88,
+        "SpAtk": 68,
+        "SpDef": 75,
+        "Spe": 73,
+        "type1": "Psico",
+        "type2": "Buio"
+    },
+    "binacle": {
+        "PS": 42,
+        "Atk": 52,
+        "Def": 67,
+        "SpAtk": 39,
+        "SpDef": 56,
+        "Spe": 50,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "barbaracle": {
+        "PS": 72,
+        "Atk": 105,
+        "Def": 115,
+        "SpAtk": 54,
+        "SpDef": 86,
+        "Spe": 68,
+        "type1": "Acqua",
+        "type2": "Roccia"
+    },
+    "skrelp": {
+        "PS": 50,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 60,
+        "SpDef": 60,
+        "Spe": 30,
+        "type1": "Acqua",
+        "type2": "Veleno"
+    },
+    "dragalge": {
+        "PS": 65,
+        "Atk": 75,
+        "Def": 90,
+        "SpAtk": 97,
+        "SpDef": 123,
+        "Spe": 44,
+        "type1": "Drago",
+        "type2": "Veleno"
+    },
+    "clauncher": {
+        "PS": 50,
+        "Atk": 53,
+        "Def": 62,
+        "SpAtk": 58,
+        "SpDef": 63,
+        "Spe": 44,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "clawitzer": {
+        "PS": 71,
+        "Atk": 73,
+        "Def": 88,
+        "SpAtk": 120,
+        "SpDef": 89,
+        "Spe": 59,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "helioptile": {
+        "PS": 44,
+        "Atk": 38,
+        "Def": 33,
+        "SpAtk": 61,
+        "SpDef": 43,
+        "Spe": 70,
+        "type1": "Normale",
+        "type2": "Elettro"
+    },
+    "heliolisk": {
+        "PS": 62,
+        "Atk": 55,
+        "Def": 52,
+        "SpAtk": 109,
+        "SpDef": 94,
+        "Spe": 109,
+        "type1": "Normale",
+        "type2": "Elettro"
+    },
+    "tyrunt": {
+        "PS": 58,
+        "Atk": 89,
+        "Def": 77,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 48,
+        "type1": "Drago",
+        "type2": "Roccia"
+    },
+    "tyrantrum": {
+        "PS": 82,
+        "Atk": 121,
+        "Def": 119,
+        "SpAtk": 69,
+        "SpDef": 59,
+        "Spe": 71,
+        "type1": "Drago",
+        "type2": "Roccia"
+    },
+    "amaura": {
+        "PS": 77,
+        "Atk": 59,
+        "Def": 50,
+        "SpAtk": 67,
+        "SpDef": 63,
+        "Spe": 46,
+        "type1": "Ghiaccio",
+        "type2": "Roccia"
+    },
+    "aurorus": {
+        "PS": 123,
+        "Atk": 77,
+        "Def": 72,
+        "SpAtk": 99,
+        "SpDef": 92,
+        "Spe": 58,
+        "type1": "Ghiaccio",
+        "type2": "Roccia"
+    },
+    "sylveon": {
+        "PS": 95,
+        "Atk": 65,
+        "Def": 65,
+        "SpAtk": 110,
+        "SpDef": 130,
+        "Spe": 60,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "hawlucha": {
+        "PS": 78,
+        "Atk": 92,
+        "Def": 75,
+        "SpAtk": 74,
+        "SpDef": 63,
+        "Spe": 118,
+        "type1": "Volante",
+        "type2": "Lotta"
+    },
+    "dedenne": {
+        "PS": 67,
+        "Atk": 58,
+        "Def": 57,
+        "SpAtk": 81,
+        "SpDef": 67,
+        "Spe": 101,
+        "type1": "Folletto",
+        "type2": "Elettro"
+    },
+    "carbink": {
+        "PS": 50,
+        "Atk": 50,
+        "Def": 150,
+        "SpAtk": 50,
+        "SpDef": 150,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Roccia"
+    },
+    "goomy": {
+        "PS": 45,
+        "Atk": 50,
+        "Def": 35,
+        "SpAtk": 55,
+        "SpDef": 75,
+        "Spe": 40,
+        "type1": "Drago",
+        "type2": null
+    },
+    "sliggoo": {
+        "PS": 68,
+        "Atk": 75,
+        "Def": 53,
+        "SpAtk": 83,
+        "SpDef": 113,
+        "Spe": 60,
+        "type1": "Drago",
+        "type2": null
+    },
+    "goodra": {
+        "PS": 90,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 110,
+        "SpDef": 150,
+        "Spe": 80,
+        "type1": "Drago",
+        "type2": null
+    },
+    "klefki": {
+        "PS": 57,
+        "Atk": 80,
+        "Def": 91,
+        "SpAtk": 80,
+        "SpDef": 87,
+        "Spe": 75,
+        "type1": "Folletto",
+        "type2": "Acciaio"
+    },
+    "phantump": {
+        "PS": 43,
+        "Atk": 70,
+        "Def": 48,
+        "SpAtk": 50,
+        "SpDef": 60,
+        "Spe": 38,
+        "type1": "Erba",
+        "type2": "Spettro"
+    },
+    "trevenant": {
+        "PS": 85,
+        "Atk": 110,
+        "Def": 76,
+        "SpAtk": 65,
+        "SpDef": 82,
+        "Spe": 56,
+        "type1": "Erba",
+        "type2": "Spettro"
+    },
+    "pumpkaboo": {
+        "PS": 49,
+        "Atk": 66,
+        "Def": 70,
+        "SpAtk": 44,
+        "SpDef": 55,
+        "Spe": 51,
+        "type1": "Erba",
+        "type2": "Spettro"
+    },
+    "gourgeist": {
+        "PS": 65,
+        "Atk": 90,
+        "Def": 122,
+        "SpAtk": 58,
+        "SpDef": 75,
+        "Spe": 84,
+        "type1": "Erba",
+        "type2": "Spettro"
+    },
+    "bergmite": {
+        "PS": 55,
+        "Atk": 69,
+        "Def": 85,
+        "SpAtk": 32,
+        "SpDef": 35,
+        "Spe": 28,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "avalugg": {
+        "PS": 95,
+        "Atk": 117,
+        "Def": 184,
+        "SpAtk": 44,
+        "SpDef": 46,
+        "Spe": 28,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "noibat": {
+        "PS": 40,
+        "Atk": 30,
+        "Def": 35,
+        "SpAtk": 45,
+        "SpDef": 40,
+        "Spe": 55,
+        "type1": "Drago",
+        "type2": "Volante"
+    },
+    "noivern": {
+        "PS": 85,
+        "Atk": 70,
+        "Def": 80,
+        "SpAtk": 97,
+        "SpDef": 80,
+        "Spe": 123,
+        "type1": "Drago",
+        "type2": "Volante"
+    },
+    "xerneas": {
+        "PS": 126,
+        "Atk": 131,
+        "Def": 95,
+        "SpAtk": 131,
+        "SpDef": 98,
+        "Spe": 99,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "yveltal": {
+        "PS": 126,
+        "Atk": 131,
+        "Def": 95,
+        "SpAtk": 131,
+        "SpDef": 98,
+        "Spe": 99,
+        "type1": "Volante",
+        "type2": "Buio"
+    },
+    "zygarde": {
+        "PS": 108,
+        "Atk": 100,
+        "Def": 121,
+        "SpAtk": 81,
+        "SpDef": 95,
+        "Spe": 95,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "diancie": {
+        "PS": 50,
+        "Atk": 100,
+        "Def": 150,
+        "SpAtk": 100,
+        "SpDef": 150,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Roccia"
+    },
+    "hoopa": {
+        "PS": 80,
+        "Atk": 110,
+        "Def": 60,
+        "SpAtk": 150,
+        "SpDef": 130,
+        "Spe": 70,
+        "type1": "Spettro",
+        "type2": "Psico"
+    },
+    "volcanion": {
+        "PS": 80,
+        "Atk": 110,
+        "Def": 120,
+        "SpAtk": 130,
+        "SpDef": 90,
+        "Spe": 70,
+        "type1": "Acqua",
+        "type2": "Fuoco"
+    },
+    "rowlet": {
+        "PS": 68,
+        "Atk": 55,
+        "Def": 55,
+        "SpAtk": 50,
+        "SpDef": 50,
+        "Spe": 42,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "dartrix": {
+        "PS": 78,
+        "Atk": 75,
+        "Def": 75,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Spe": 52,
+        "type1": "Volante",
+        "type2": "Erba"
+    },
+    "decidueye": {
+        "PS": 78,
+        "Atk": 107,
+        "Def": 75,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Spe": 70,
+        "type1": "Spettro",
+        "type2": "Erba"
+    },
+    "litten": {
+        "PS": 45,
+        "Atk": 65,
+        "Def": 40,
+        "SpAtk": 60,
+        "SpDef": 40,
+        "Spe": 70,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "torracat": {
+        "PS": 65,
+        "Atk": 85,
+        "Def": 50,
+        "SpAtk": 80,
+        "SpDef": 50,
+        "Spe": 90,
+        "type1": "Fuoco",
+        "type2": null
+    },
+    "incineroar": {
+        "PS": 95,
+        "Atk": 115,
+        "Def": 90,
+        "SpAtk": 80,
+        "SpDef": 90,
+        "Spe": 60,
+        "type1": "Buio",
+        "type2": "Fuoco"
+    },
+    "popplio": {
+        "PS": 50,
+        "Atk": 54,
+        "Def": 54,
+        "SpAtk": 66,
+        "SpDef": 56,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "brionne": {
+        "PS": 60,
+        "Atk": 69,
+        "Def": 69,
+        "SpAtk": 91,
+        "SpDef": 81,
+        "Spe": 50,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "primarina": {
+        "PS": 80,
+        "Atk": 74,
+        "Def": 74,
+        "SpAtk": 126,
+        "SpDef": 116,
+        "Spe": 60,
+        "type1": "Folletto",
+        "type2": "Acqua"
+    },
+    "pikipek": {
+        "PS": 35,
+        "Atk": 75,
+        "Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 65,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "trumbeak": {
+        "PS": 55,
+        "Atk": 85,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 75,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "toucannon": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 75,
+        "SpAtk": 75,
+        "SpDef": 75,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "yungoos": {
+        "PS": 48,
+        "Atk": 70,
+        "Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 45,
+        "type1": "Normale",
+        "type2": null
+    },
+    "gumshoos": {
+        "PS": 88,
+        "Atk": 110,
+        "Def": 60,
+        "SpAtk": 55,
+        "SpDef": 60,
+        "Spe": 45,
+        "type1": "Normale",
+        "type2": null
+    },
+    "grubbin": {
+        "PS": 47,
+        "Atk": 62,
+        "Def": 45,
+        "SpAtk": 55,
+        "SpDef": 45,
+        "Spe": 46,
+        "type1": "Coleottero",
+        "type2": null
+    },
+    "charjabug": {
+        "PS": 57,
+        "Atk": 82,
+        "Def": 95,
+        "SpAtk": 55,
+        "SpDef": 75,
+        "Spe": 36,
+        "type1": "Elettro",
+        "type2": "Coleottero"
+    },
+    "vikavolt": {
+        "PS": 77,
+        "Atk": 70,
+        "Def": 90,
+        "SpAtk": 145,
+        "SpDef": 75,
+        "Spe": 43,
+        "type1": "Elettro",
+        "type2": "Coleottero"
+    },
+    "crabrawler": {
+        "PS": 47,
+        "Atk": 82,
+        "Def": 57,
+        "SpAtk": 42,
+        "SpDef": 47,
+        "Spe": 63,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "crabominable": {
+        "PS": 97,
+        "Atk": 132,
+        "Def": 77,
+        "SpAtk": 62,
+        "SpDef": 67,
+        "Spe": 43,
+        "type1": "Ghiaccio",
+        "type2": "Lotta"
+    },
+    "oricorio": {
+        "PS": 75,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 98,
+        "SpDef": 70,
+        "Spe": 93,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "cutiefly": {
+        "PS": 40,
+        "Atk": 45,
+        "Def": 40,
+        "SpAtk": 55,
+        "SpDef": 40,
+        "Spe": 84,
+        "type1": "Folletto",
+        "type2": "Coleottero"
+    },
+    "ribombee": {
+        "PS": 60,
+        "Atk": 55,
+        "Def": 60,
+        "SpAtk": 95,
+        "SpDef": 70,
+        "Spe": 124,
+        "type1": "Folletto",
+        "type2": "Coleottero"
+    },
+    "rockruff": {
+        "PS": 45,
+        "Atk": 65,
+        "Def": 40,
+        "SpAtk": 30,
+        "SpDef": 40,
+        "Spe": 60,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "lycanroc": {
+        "PS": 75,
+        "Atk": 115,
+        "Def": 65,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 112,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "wishiwashi": {
+        "PS": 45,
+        "Atk": 20,
+        "Def": 20,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "mareanie": {
+        "PS": 50,
+        "Atk": 53,
+        "Def": 62,
+        "SpAtk": 43,
+        "SpDef": 52,
+        "Spe": 45,
+        "type1": "Acqua",
+        "type2": "Veleno"
+    },
+    "toxapex": {
+        "PS": 50,
+        "Atk": 63,
+        "Def": 152,
+        "SpAtk": 53,
+        "SpDef": 142,
+        "Spe": 35,
+        "type1": "Acqua",
+        "type2": "Veleno"
+    },
+    "mudbray": {
+        "PS": 70,
+        "Atk": 100,
+        "Def": 70,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Spe": 45,
+        "type1": "Terra",
+        "type2": null
+    },
+    "mudsdale": {
+        "PS": 100,
+        "Atk": 125,
+        "Def": 100,
+        "SpAtk": 55,
+        "SpDef": 85,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": null
+    },
+    "dewpider": {
+        "PS": 38,
+        "Atk": 40,
+        "Def": 52,
+        "SpAtk": 40,
+        "SpDef": 72,
+        "Spe": 27,
+        "type1": "Coleottero",
+        "type2": "Acqua"
+    },
+    "araquanid": {
+        "PS": 68,
+        "Atk": 70,
+        "Def": 92,
+        "SpAtk": 50,
+        "SpDef": 132,
+        "Spe": 42,
+        "type1": "Coleottero",
+        "type2": "Acqua"
+    },
+    "fomantis": {
+        "PS": 40,
+        "Atk": 55,
+        "Def": 35,
+        "SpAtk": 50,
+        "SpDef": 35,
+        "Spe": 35,
+        "type1": "Erba",
+        "type2": null
+    },
+    "lurantis": {
+        "PS": 70,
+        "Atk": 105,
+        "Def": 90,
+        "SpAtk": 80,
+        "SpDef": 90,
+        "Spe": 45,
+        "type1": "Erba",
+        "type2": null
+    },
+    "morelull": {
+        "PS": 40,
+        "Atk": 35,
+        "Def": 55,
+        "SpAtk": 65,
+        "SpDef": 75,
+        "Spe": 15,
+        "type1": "Folletto",
+        "type2": "Erba"
+    },
+    "shiinotic": {
+        "PS": 60,
+        "Atk": 45,
+        "Def": 80,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Spe": 30,
+        "type1": "Folletto",
+        "type2": "Erba"
+    },
+    "salandit": {
+        "PS": 48,
+        "Atk": 44,
+        "Def": 40,
+        "SpAtk": 71,
+        "SpDef": 40,
+        "Spe": 77,
+        "type1": "Fuoco",
+        "type2": "Veleno"
+    },
+    "salazzle": {
+        "PS": 68,
+        "Atk": 64,
+        "Def": 60,
+        "SpAtk": 111,
+        "SpDef": 60,
+        "Spe": 117,
+        "type1": "Fuoco",
+        "type2": "Veleno"
+    },
+    "stufful": {
+        "PS": 70,
+        "Atk": 75,
+        "Def": 50,
+        "SpAtk": 45,
+        "SpDef": 50,
+        "Spe": 50,
+        "type1": "Lotta",
+        "type2": "Normale"
+    },
+    "bewear": {
+        "PS": 120,
+        "Atk": 125,
+        "Def": 80,
+        "SpAtk": 55,
+        "SpDef": 60,
+        "Spe": 60,
+        "type1": "Lotta",
+        "type2": "Normale"
+    },
+    "bounsweet": {
+        "PS": 42,
+        "Atk": 30,
+        "Def": 38,
+        "SpAtk": 30,
+        "SpDef": 38,
+        "Spe": 32,
+        "type1": "Erba",
+        "type2": null
+    },
+    "steenee": {
+        "PS": 52,
+        "Atk": 40,
+        "Def": 48,
+        "SpAtk": 40,
+        "SpDef": 48,
+        "Spe": 62,
+        "type1": "Erba",
+        "type2": null
+    },
+    "tsareena": {
+        "PS": 72,
+        "Atk": 120,
+        "Def": 98,
+        "SpAtk": 50,
+        "SpDef": 98,
+        "Spe": 72,
+        "type1": "Erba",
+        "type2": null
+    },
+    "comfey": {
+        "PS": 51,
+        "Atk": 52,
+        "Def": 90,
+        "SpAtk": 82,
+        "SpDef": 110,
+        "Spe": 100,
+        "type1": "Folletto",
+        "type2": null
+    },
+    "oranguru": {
+        "PS": 90,
+        "Atk": 60,
+        "Def": 80,
+        "SpAtk": 90,
+        "SpDef": 110,
+        "Spe": 60,
+        "type1": "Psico",
+        "type2": "Normale"
+    },
+    "passimian": {
+        "PS": 100,
+        "Atk": 120,
+        "Def": 90,
+        "SpAtk": 40,
+        "SpDef": 60,
+        "Spe": 80,
+        "type1": "Lotta",
+        "type2": null
+    },
+    "wimpod": {
+        "PS": 25,
+        "Atk": 35,
+        "Def": 40,
+        "SpAtk": 20,
+        "SpDef": 30,
+        "Spe": 80,
+        "type1": "Acqua",
+        "type2": "Coleottero"
+    },
+    "golisopod": {
+        "PS": 75,
+        "Atk": 125,
+        "Def": 140,
+        "SpAtk": 60,
+        "SpDef": 90,
+        "Spe": 40,
+        "type1": "Acqua",
+        "type2": "Coleottero"
+    },
+    "sandygast": {
+        "PS": 55,
+        "Atk": 55,
+        "Def": 80,
+        "SpAtk": 70,
+        "SpDef": 45,
+        "Spe": 15,
+        "type1": "Terra",
+        "type2": "Spettro"
+    },
+    "palossand": {
+        "PS": 85,
+        "Atk": 75,
+        "Def": 110,
+        "SpAtk": 100,
+        "SpDef": 75,
+        "Spe": 35,
+        "type1": "Terra",
+        "type2": "Spettro"
+    },
+    "pyukumuku": {
+        "PS": 55,
+        "Atk": 60,
+        "Def": 130,
+        "SpAtk": 30,
+        "SpDef": 130,
+        "Spe": 5,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "type null": {
+        "PS": 95,
+        "Atk": 95,
+        "Def": 95,
+        "SpAtk": 95,
+        "SpDef": 95,
+        "Spe": 59,
+        "type1": "Normale",
+        "type2": null
+    },
+    "silvally": {
+        "PS": 95,
+        "Atk": 95,
+        "Def": 95,
+        "SpAtk": 95,
+        "SpDef": 95,
+        "Spe": 95,
+        "type1": "Normale",
+        "type2": null
+    },
+    "minior": {
+        "PS": 60,
+        "Atk": 100,
+        "Def": 60,
+        "SpAtk": 100,
+        "SpDef": 60,
+        "Spe": 120,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "komala": {
+        "PS": 65,
+        "Atk": 115,
+        "Def": 65,
+        "SpAtk": 75,
+        "SpDef": 95,
+        "Spe": 65,
+        "type1": "Normale",
+        "type2": null
+    },
+    "turtonator": {
+        "PS": 60,
+        "Atk": 78,
+        "Def": 135,
+        "SpAtk": 91,
+        "SpDef": 85,
+        "Spe": 36,
+        "type1": "Drago",
+        "type2": "Fuoco"
+    },
+    "togedemaru": {
+        "PS": 65,
+        "Atk": 98,
+        "Def": 63,
+        "SpAtk": 40,
+        "SpDef": 73,
+        "Spe": 96,
+        "type1": "Acciaio",
+        "type2": "Elettro"
+    },
+    "mimikyu": {
+        "PS": 55,
+        "Atk": 90,
+        "Def": 80,
+        "SpAtk": 50,
+        "SpDef": 105,
+        "Spe": 96,
+        "type1": "Folletto",
+        "type2": "Spettro"
+    },
+    "bruxish": {
+        "PS": 68,
+        "Atk": 105,
+        "Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Spe": 92,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "drampa": {
+        "PS": 78,
+        "Atk": 60,
+        "Def": 85,
+        "SpAtk": 135,
+        "SpDef": 91,
+        "Spe": 36,
+        "type1": "Drago",
+        "type2": "Normale"
+    },
+    "dhelmise": {
+        "PS": 70,
+        "Atk": 131,
+        "Def": 100,
+        "SpAtk": 86,
+        "SpDef": 90,
+        "Spe": 40,
+        "type1": "Erba",
+        "type2": "Spettro"
+    },
+    "jangmo-o": {
+        "PS": 45,
+        "Atk": 55,
+        "Def": 65,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 45,
+        "type1": "Drago",
+        "type2": null
+    },
+    "hakamo-o": {
+        "PS": 55,
+        "Atk": 75,
+        "Def": 90,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Spe": 65,
+        "type1": "Lotta",
+        "type2": "Drago"
+    },
+    "kommo-o": {
+        "PS": 75,
+        "Atk": 110,
+        "Def": 125,
+        "SpAtk": 100,
+        "SpDef": 105,
+        "Spe": 85,
+        "type1": "Lotta",
+        "type2": "Drago"
+    },
+    "tapu koko": {
+        "PS": 70,
+        "Atk": 115,
+        "Def": 85,
+        "SpAtk": 95,
+        "SpDef": 75,
+        "Spe": 130,
+        "type1": "Folletto",
+        "type2": "Elettro"
+    },
+    "tapu lele": {
+        "PS": 70,
+        "Atk": 85,
+        "Def": 75,
+        "SpAtk": 130,
+        "SpDef": 115,
+        "Spe": 95,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "tapu bulu": {
+        "PS": 70,
+        "Atk": 130,
+        "Def": 115,
+        "SpAtk": 85,
+        "SpDef": 95,
+        "Spe": 75,
+        "type1": "Folletto",
+        "type2": "Erba"
+    },
+    "tapu fini": {
+        "PS": 70,
+        "Atk": 75,
+        "Def": 115,
+        "SpAtk": 95,
+        "SpDef": 130,
+        "Spe": 85,
+        "type1": "Folletto",
+        "type2": "Acqua"
+    },
+    "cosmog": {
+        "PS": 43,
+        "Atk": 29,
+        "Def": 31,
+        "SpAtk": 29,
+        "SpDef": 31,
+        "Spe": 37,
+        "type1": "Psico",
+        "type2": null
+    },
+    "cosmoem": {
+        "PS": 43,
+        "Atk": 29,
+        "Def": 131,
+        "SpAtk": 29,
+        "SpDef": 131,
+        "Spe": 37,
+        "type1": "Psico",
+        "type2": null
+    },
+    "solgaleo": {
+        "PS": 137,
+        "Atk": 137,
+        "Def": 107,
+        "SpAtk": 113,
+        "SpDef": 89,
+        "Spe": 97,
+        "type1": "Acciaio",
+        "type2": "Psico"
+    },
+    "lunala": {
+        "PS": 137,
+        "Atk": 113,
+        "Def": 89,
+        "SpAtk": 137,
+        "SpDef": 107,
+        "Spe": 97,
+        "type1": "Spettro",
+        "type2": "Psico"
+    },
+    "nihilego": {
+        "PS": 109,
+        "Atk": 53,
+        "Def": 47,
+        "SpAtk": 127,
+        "SpDef": 131,
+        "Spe": 103,
+        "type1": "Veleno",
+        "type2": "Roccia"
+    },
+    "buzzwole": {
+        "PS": 107,
+        "Atk": 139,
+        "Def": 139,
+        "SpAtk": 53,
+        "SpDef": 53,
+        "Spe": 79,
+        "type1": "Lotta",
+        "type2": "Coleottero"
+    },
+    "pheromosa": {
+        "PS": 71,
+        "Atk": 137,
+        "Def": 37,
+        "SpAtk": 137,
+        "SpDef": 37,
+        "Spe": 151,
+        "type1": "Lotta",
+        "type2": "Coleottero"
+    },
+    "xurkitree": {
+        "PS": 83,
+        "Atk": 89,
+        "Def": 71,
+        "SpAtk": 173,
+        "SpDef": 71,
+        "Spe": 83,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "celesteela": {
+        "PS": 97,
+        "Atk": 101,
+        "Def": 103,
+        "SpAtk": 107,
+        "SpDef": 101,
+        "Spe": 61,
+        "type1": "Volante",
+        "type2": "Acciaio"
+    },
+    "kartana": {
+        "PS": 59,
+        "Atk": 181,
+        "Def": 131,
+        "SpAtk": 59,
+        "SpDef": 31,
+        "Spe": 109,
+        "type1": "Acciaio",
+        "type2": "Erba"
+    },
+    "guzzlord": {
+        "PS": 223,
+        "Atk": 101,
+        "Def": 53,
+        "SpAtk": 97,
+        "SpDef": 53,
+        "Spe": 43,
+        "type1": "Drago",
+        "type2": "Buio"
+    },
+    "necrozma": {
+        "PS": 97,
+        "Atk": 107,
+        "Def": 101,
+        "SpAtk": 127,
+        "SpDef": 89,
+        "Spe": 79,
+        "type1": "Psico",
+        "type2": null
+    },
+    "magearna": {
+        "PS": 80,
+        "Atk": 95,
+        "Def": 115,
+        "SpAtk": 130,
+        "SpDef": 115,
+        "Spe": 65,
+        "type1": "Folletto",
+        "type2": "Acciaio"
+    },
+    "marshadow": {
+        "PS": 90,
+        "Atk": 125,
+        "Def": 80,
+        "SpAtk": 90,
+        "SpDef": 90,
+        "Spe": 125,
+        "type1": "Spettro",
+        "type2": "Lotta"
+    },
+    "mega venusaur": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 123,
+        "SpAtk": 122,
+        "SpDef": 120,
+        "Spe": 80,
+        "type1": "Veleno",
+        "type2": "Erba"
+    },
+    "mega charizard x": {
+        "PS": 78,
+        "Atk": 130,
+        "Def": 111,
+        "SpAtk": 130,
+        "SpDef": 85,
+        "Spe": 100,
+        "type1": "Drago",
+        "type2": "Fuoco"
+    },
+    "mega charizard y": {
+        "PS": 78,
+        "Atk": 104,
+        "Def": 78,
+        "SpAtk": 159,
+        "SpDef": 115,
+        "Spe": 100,
+        "type1": "Volante",
+        "type2": "Fuoco"
+    },
+    "mega blastoise": {
+        "PS": 79,
+        "Atk": 103,
+        "Def": 120,
+        "SpAtk": 135,
+        "SpDef": 115,
+        "Spe": 78,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "mega alakazam": {
+        "PS": 55,
+        "Atk": 50,
+        "Def": 65,
+        "SpAtk": 175,
+        "SpDef": 105,
+        "Spe": 150,
+        "type1": "Psico",
+        "type2": null
+    },
+    "mega gengar": {
+        "PS": 60,
+        "Atk": 65,
+        "Def": 80,
+        "SpAtk": 170,
+        "SpDef": 95,
+        "Spe": 130,
+        "type1": "Veleno",
+        "type2": "Spettro"
+    },
+    "mega kangaskhan": {
+        "PS": 105,
+        "Atk": 125,
+        "Def": 100,
+        "SpAtk": 60,
+        "SpDef": 100,
+        "Spe": 100,
+        "type1": "Normale",
+        "type2": null
+    },
+    "mega pinsir": {
+        "PS": 65,
+        "Atk": 155,
+        "Def": 120,
+        "SpAtk": 65,
+        "SpDef": 90,
+        "Spe": 105,
+        "type1": "Volante",
+        "type2": "Coleottero"
+    },
+    "mega gyarados": {
+        "PS": 95,
+        "Atk": 155,
+        "Def": 109,
+        "SpAtk": 70,
+        "SpDef": 130,
+        "Spe": 81,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "mega aerodactyl": {
+        "PS": 80,
+        "Atk": 135,
+        "Def": 85,
+        "SpAtk": 70,
+        "SpDef": 95,
+        "Spe": 150,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "mega mewtwo x": {
+        "PS": 106,
+        "Atk": 190,
+        "Def": 100,
+        "SpAtk": 154,
+        "SpDef": 100,
+        "Spe": 130,
+        "type1": "Lotta",
+        "type2": "Psico"
+    },
+    "mega mewtwo y": {
+        "PS": 106,
+        "Atk": 150,
+        "Def": 70,
+        "SpAtk": 194,
+        "SpDef": 120,
+        "Spe": 140,
+        "type1": "Psico",
+        "type2": null
+    },
+    "mega ampharos": {
+        "PS": 90,
+        "Atk": 95,
+        "Def": 105,
+        "SpAtk": 165,
+        "SpDef": 110,
+        "Spe": 45,
+        "type1": "Drago",
+        "type2": "Elettro"
+    },
+    "mega scizor": {
+        "PS": 70,
+        "Atk": 150,
+        "Def": 140,
+        "SpAtk": 65,
+        "SpDef": 100,
+        "Spe": 75,
+        "type1": "Acciaio",
+        "type2": "Coleottero"
+    },
+    "mega heracross": {
+        "PS": 80,
+        "Atk": 185,
+        "Def": 115,
+        "SpAtk": 40,
+        "SpDef": 105,
+        "Spe": 75,
+        "type1": "Lotta",
+        "type2": "Coleottero"
+    },
+    "mega houndoom": {
+        "PS": 75,
+        "Atk": 90,
+        "Def": 90,
+        "SpAtk": 140,
+        "SpDef": 90,
+        "Spe": 115,
+        "type1": "Fuoco",
+        "type2": "Buio"
+    },
+    "mega tyranitar": {
+        "PS": 100,
+        "Atk": 164,
+        "Def": 150,
+        "SpAtk": 95,
+        "SpDef": 120,
+        "Spe": 71,
+        "type1": "Buio",
+        "type2": "Roccia"
+    },
+    "mega blaziken": {
+        "PS": 80,
+        "Atk": 160,
+        "Def": 80,
+        "SpAtk": 130,
+        "SpDef": 80,
+        "Spe": 100,
+        "type1": "Lotta",
+        "type2": "Fuoco"
+    },
+    "mega gardevoir": {
+        "PS": 68,
+        "Atk": 85,
+        "Def": 65,
+        "SpAtk": 165,
+        "SpDef": 135,
+        "Spe": 100,
+        "type1": "Folletto",
+        "type2": "Psico"
+    },
+    "mega mawile": {
+        "PS": 50,
+        "Atk": 105,
+        "Def": 125,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Acciaio"
+    },
+    "mega aggron": {
+        "PS": 70,
+        "Atk": 140,
+        "Def": 230,
+        "SpAtk": 60,
+        "SpDef": 80,
+        "Spe": 50,
+        "type1": "Acciaio",
+        "type2": null
+    },
+    "mega medicham": {
+        "PS": 60,
+        "Atk": 100,
+        "Def": 85,
+        "SpAtk": 80,
+        "SpDef": 85,
+        "Spe": 100,
+        "type1": "Psico",
+        "type2": "Lotta"
+    },
+    "mega manectric": {
+        "PS": 70,
+        "Atk": 75,
+        "Def": 80,
+        "SpAtk": 135,
+        "SpDef": 80,
+        "Spe": 135,
+        "type1": "Elettro",
+        "type2": null
+    },
+    "mega banette": {
+        "PS": 64,
+        "Atk": 165,
+        "Def": 75,
+        "SpAtk": 93,
+        "SpDef": 83,
+        "Spe": 75,
+        "type1": "Spettro",
+        "type2": null
+    },
+    "mega absol": {
+        "PS": 65,
+        "Atk": 150,
+        "Def": 60,
+        "SpAtk": 115,
+        "SpDef": 60,
+        "Spe": 115,
+        "type1": "Buio",
+        "type2": null
+    },
+    "mega garchomp": {
+        "PS": 108,
+        "Atk": 170,
+        "Def": 115,
+        "SpAtk": 120,
+        "SpDef": 95,
+        "Spe": 92,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "mega lucario": {
+        "PS": 70,
+        "Atk": 145,
+        "Def": 88,
+        "SpAtk": 140,
+        "SpDef": 70,
+        "Spe": 112,
+        "type1": "Acciaio",
+        "type2": "Lotta"
+    },
+    "mega abomasnow": {
+        "PS": 90,
+        "Atk": 132,
+        "Def": 105,
+        "SpAtk": 132,
+        "SpDef": 105,
+        "Spe": 30,
+        "type1": "Ghiaccio",
+        "type2": "Erba"
+    },
+    "mega latias": {
+        "PS": 80,
+        "Atk": 100,
+        "Def": 120,
+        "SpAtk": 140,
+        "SpDef": 150,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Drago"
+    },
+    "mega latios": {
+        "PS": 80,
+        "Atk": 130,
+        "Def": 100,
+        "SpAtk": 160,
+        "SpDef": 120,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Drago"
+    },
+    "mega swampert": {
+        "PS": 100,
+        "Atk": 150,
+        "Def": 110,
+        "SpAtk": 95,
+        "SpDef": 110,
+        "Spe": 70,
+        "type1": "Terra",
+        "type2": "Acqua"
+    },
+    "mega sceptile": {
+        "PS": 70,
+        "Atk": 110,
+        "Def": 75,
+        "SpAtk": 145,
+        "SpDef": 85,
+        "Spe": 145,
+        "type1": "Drago",
+        "type2": "Erba"
+    },
+    "mega sableye": {
+        "PS": 50,
+        "Atk": 85,
+        "Def": 125,
+        "SpAtk": 85,
+        "SpDef": 115,
+        "Spe": 20,
+        "type1": "Spettro",
+        "type2": "Buio"
+    },
+    "mega altaria": {
+        "PS": 75,
+        "Atk": 110,
+        "Def": 110,
+        "SpAtk": 110,
+        "SpDef": 105,
+        "Spe": 80,
+        "type1": "Folletto",
+        "type2": "Drago"
+    },
+    "mega gallade": {
+        "PS": 68,
+        "Atk": 165,
+        "Def": 95,
+        "SpAtk": 65,
+        "SpDef": 115,
+        "Spe": 110,
+        "type1": "Lotta",
+        "type2": "Psico"
+    },
+    "mega audino": {
+        "PS": 103,
+        "Atk": 60,
+        "Def": 126,
+        "SpAtk": 80,
+        "SpDef": 126,
+        "Spe": 50,
+        "type1": "Folletto",
+        "type2": "Normale"
+    },
+    "mega sharpedo": {
+        "PS": 70,
+        "Atk": 140,
+        "Def": 70,
+        "SpAtk": 110,
+        "SpDef": 65,
+        "Spe": 105,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "mega slowbro": {
+        "PS": 95,
+        "Atk": 75,
+        "Def": 180,
+        "SpAtk": 130,
+        "SpDef": 80,
+        "Spe": 30,
+        "type1": "Psico",
+        "type2": "Acqua"
+    },
+    "mega steelix": {
+        "PS": 75,
+        "Atk": 125,
+        "Def": 230,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Spe": 30,
+        "type1": "Terra",
+        "type2": "Acciaio"
+    },
+    "mega pidgeot": {
+        "PS": 83,
+        "Atk": 80,
+        "Def": 80,
+        "SpAtk": 135,
+        "SpDef": 80,
+        "Spe": 121,
+        "type1": "Volante",
+        "type2": "Normale"
+    },
+    "mega glalie": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 80,
+        "SpAtk": 120,
+        "SpDef": 80,
+        "Spe": 100,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "mega diancie": {
+        "PS": 50,
+        "Atk": 160,
+        "Def": 110,
+        "SpAtk": 160,
+        "SpDef": 110,
+        "Spe": 110,
+        "type1": "Folletto",
+        "type2": "Roccia"
+    },
+    "mega metagross": {
+        "PS": 80,
+        "Atk": 145,
+        "Def": 150,
+        "SpAtk": 105,
+        "SpDef": 110,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Acciaio"
+    },
+    "mega rayquaza": {
+        "PS": 105,
+        "Atk": 180,
+        "Def": 100,
+        "SpAtk": 180,
+        "SpDef": 100,
+        "Spe": 115,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "mega camerupt": {
+        "PS": 70,
+        "Atk": 120,
+        "Def": 100,
+        "SpAtk": 145,
+        "SpDef": 105,
+        "Spe": 20,
+        "type1": "Terra",
+        "type2": "Fuoco"
+    },
+    "mega lopunny": {
+        "PS": 65,
+        "Atk": 136,
+        "Def": 94,
+        "SpAtk": 54,
+        "SpDef": 96,
+        "Spe": 135,
+        "type1": "Lotta",
+        "type2": "Normale"
+    },
+    "mega salamence": {
+        "PS": 95,
+        "Atk": 145,
+        "Def": 130,
+        "SpAtk": 120,
+        "SpDef": 90,
+        "Spe": 120,
+        "type1": "Volante",
+        "type2": "Drago"
+    },
+    "mega beedrill": {
+        "PS": 65,
+        "Atk": 150,
+        "Def": 40,
+        "SpAtk": 15,
+        "SpDef": 80,
+        "Spe": 145,
+        "type1": "Veleno",
+        "type2": "Coleottero"
+    },
+    "raichu alola": {
+        "PS": 60,
+        "Atk": 85,
+        "Def": 50,
+        "SpAtk": 95,
+        "SpDef": 85,
+        "Spe": 110,
+        "type1": "Psico",
+        "type2": "Elettro"
+    },
+    "sandshrew alola": {
+        "PS": 50,
+        "Atk": 75,
+        "Def": 90,
+        "SpAtk": 10,
+        "SpDef": 35,
+        "Spe": 40,
+        "type1": "Acciaio",
+        "type2": "Ghiaccio"
+    },
+    "sandslash alola": {
+        "PS": 75,
+        "Atk": 100,
+        "Def": 120,
+        "SpAtk": 25,
+        "SpDef": 65,
+        "Spe": 65,
+        "type1": "Acciaio",
+        "type2": "Ghiaccio"
+    },
+    "vulpix alola": {
+        "PS": 38,
+        "Atk": 41,
+        "Def": 40,
+        "SpAtk": 50,
+        "SpDef": 65,
+        "Spe": 65,
+        "type1": "Ghiaccio",
+        "type2": null
+    },
+    "ninetales alola": {
+        "PS": 73,
+        "Atk": 67,
+        "Def": 75,
+        "SpAtk": 81,
+        "SpDef": 100,
+        "Spe": 109,
+        "type1": "Folletto",
+        "type2": "Ghiaccio"
+    },
+    "diglett alola": {
+        "PS": 10,
+        "Atk": 55,
+        "Def": 30,
+        "SpAtk": 35,
+        "SpDef": 45,
+        "Spe": 90,
+        "type1": "Acciaio",
+        "type2": "Terra"
+    },
+    "dugtrio alola": {
+        "PS": 35,
+        "Atk": 100,
+        "Def": 60,
+        "SpAtk": 50,
+        "SpDef": 70,
+        "Spe": 110,
+        "type1": "Acciaio",
+        "type2": "Terra"
+    },
+    "meowth alola": {
+        "PS": 40,
+        "Atk": 35,
+        "Def": 35,
+        "SpAtk": 50,
+        "SpDef": 40,
+        "Spe": 90,
+        "type1": "Buio",
+        "type2": null
+    },
+    "persian alola": {
+        "PS": 65,
+        "Atk": 60,
+        "Def": 60,
+        "SpAtk": 75,
+        "SpDef": 65,
+        "Spe": 115,
+        "type1": "Buio",
+        "type2": null
+    },
+    "geodude alola": {
+        "PS": 40,
+        "Atk": 80,
+        "Def": 100,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Spe": 20,
+        "type1": "Elettro",
+        "type2": "Roccia"
+    },
+    "graveler alola": {
+        "PS": 55,
+        "Atk": 95,
+        "Def": 115,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Spe": 35,
+        "type1": "Elettro",
+        "type2": "Roccia"
+    },
+    "golem alola": {
+        "PS": 80,
+        "Atk": 120,
+        "Def": 130,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 45,
+        "type1": "Elettro",
+        "type2": "Roccia"
+    },
+    "grimer alola": {
+        "PS": 80,
+        "Atk": 80,
+        "Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Spe": 25,
+        "type1": "Buio",
+        "type2": "Veleno"
+    },
+    "muk alola": {
+        "PS": 105,
+        "Atk": 105,
+        "Def": 75,
+        "SpAtk": 65,
+        "SpDef": 100,
+        "Spe": 50,
+        "type1": "Buio",
+        "type2": "Veleno"
+    },
+    "exeggutor alola": {
+        "PS": 95,
+        "Atk": 105,
+        "Def": 85,
+        "SpAtk": 125,
+        "SpDef": 75,
+        "Spe": 45,
+        "type1": "Drago",
+        "type2": "Erba"
+    },
+    "marowak alola": {
+        "PS": 60,
+        "Atk": 80,
+        "Def": 110,
+        "SpAtk": 50,
+        "SpDef": 80,
+        "Spe": 45,
+        "type1": "Spettro",
+        "type2": "Fuoco"
+    },
+    "greninja ash": {
+        "PS": 72,
+        "Atk": 145,
+        "Def": 67,
+        "SpAtk": 153,
+        "SpDef": 71,
+        "Spe": 132,
+        "type1": "Buio",
+        "type2": "Acqua"
+    },
+    "zygarde 10%": {
+        "PS": 54,
+        "Atk": 100,
+        "Def": 71,
+        "SpAtk": 61,
+        "SpDef": 85,
+        "Spe": 115,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "zygarde 100%": {
+        "PS": 216,
+        "Atk": 100,
+        "Def": 121,
+        "SpAtk": 91,
+        "SpDef": 95,
+        "Spe": 85,
+        "type1": "Terra",
+        "type2": "Drago"
+    },
+    "oricorio pom pom": {
+        "PS": 75,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 98,
+        "SpDef": 70,
+        "Spe": 93,
+        "type1": "Volante",
+        "type2": "Elettro"
+    },
+    "oricorio pau": {
+        "PS": 75,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 98,
+        "SpDef": 70,
+        "Spe": 93,
+        "type1": "Volante",
+        "type2": "Psico"
+    },
+    "oricorio sensu": {
+        "PS": 75,
+        "Atk": 70,
+        "Def": 70,
+        "SpAtk": 98,
+        "SpDef": 70,
+        "Spe": 93,
+        "type1": "Volante",
+        "type2": "Spettro"
+    },
+    "lycanroc mezzanotte": {
+        "PS": 85,
+        "Atk": 115,
+        "Def": 75,
+        "SpAtk": 55,
+        "SpDef": 75,
+        "Spe": 82,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "wishiwashi banco": {
+        "PS": 45,
+        "Atk": 140,
+        "Def": 130,
+        "SpAtk": 140,
+        "SpDef": 135,
+        "Spe": 30,
+        "type1": "Acqua",
+        "type2": null
+    },
+    "minior meteora": {
+        "PS": 60,
+        "Atk": 60,
+        "Def": 100,
+        "SpAtk": 60,
+        "SpDef": 100,
+        "Spe": 60,
+        "type1": "Volante",
+        "type2": "Roccia"
+    },
+    "lycanroc tramonto": {
+        "PS": 75,
+        "Atk": 117,
+        "Def": 65,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Spe": 110,
+        "type1": "Roccia",
+        "type2": null
+    },
+    "necrozma criniera del vespro": {
+        "PS": 97,
+        "Atk": 157,
+        "Def": 127,
+        "SpAtk": 113,
+        "SpDef": 109,
+        "Spe": 77,
+        "type1": "Acciaio",
+        "type2": "Psico"
+    },
+    "necrozma ali dell'aurora": {
+        "PS": 97,
+        "Atk": 113,
+        "Def": 109,
+        "SpAtk": 157,
+        "SpDef": 127,
+        "Spe": 77,
+        "type1": "Spettro",
+        "type2": "Psico"
+    },
+    "necrozma ultra": {
+        "PS": 97,
+        "Atk": 167,
+        "Def": 97,
+        "SpAtk": 167,
+        "SpDef": 97,
+        "Spe": 129,
+        "type1": "Drago",
+        "type2": "Psico"
+    }
+}
