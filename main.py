@@ -63,7 +63,7 @@ pokemon = json.load(json_file)  # Opening pokemon.json as a JSON object
 
 image = Image.open('teamlist.jpg')  # Opening teamtlis image
 draw = ImageDraw.Draw(image)  # Declaring
-font = ImageFont.truetype('Roboto.ttf', size=45)  # Setting text font
+font = ImageFont.truetype('Roboto.ttf', size=25)  # Setting text font
 black = 'rgb(0, 0, 0)'  # Setting text color
 
 pok = {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}}  # Declaring
@@ -108,6 +108,7 @@ for i in range(6):
     pok[i]["Move2"] = tlis[i*8+5].split("- ")[1]
     pok[i]["Move3"] = tlis[i*8+6].split("- ")[1]
     pok[i]["Move4"] = tlis[i*8+7].split("- ")[1]
+    pok[i]["Name"] = pok[i]["Name"].split('-')[0] # With this I exclude the alternative forms
 
 # Reading EVs
 for i in range(6):
@@ -125,5 +126,13 @@ for i in range(6):
         else:
             pok[i][k] = statCalc(pokemon[pok[i]["Name"].lower()][k], pok[i][k], 31, natureCalc(pok[i]["Nature"],k))
 
-
+for i in range(2):
+    for k in range(3):
+        if i==0:
+            draw.text((245+i*825,390+k*492),pok[k]["Name"],black,font=font)
+        if i==1:
+            draw.text((245+i*825,390+k*492),pok[k+3]["Name"],black,font=font)
+#245 390
+#245 882
+#1070
 image.save('prova.jpg')
