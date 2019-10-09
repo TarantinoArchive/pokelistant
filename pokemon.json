@@ -7999,6 +7999,16 @@
         "type1": "Folletto",
         "type2": "Acciaio"
     },
+        "stakataka": {
+            "PS": 61,
+            "Atk": 131,
+            "Def": 211,
+            "SpAtk": 53,
+            "SpDef": 101,
+            "Spe": 13,
+            "type1": "Folletto",
+            "type2": "Acciaio"
+        },
     "marshadow": {
         "PS": 90,
         "Atk": 125,
@@ -8469,7 +8479,7 @@
         "type1": "Lotta",
         "type2": "Normale"
     },
-    "mega salamence": {
+    "salamence-mega": {
         "PS": 95,
         "Atk": 145,
         "Def": 130,
