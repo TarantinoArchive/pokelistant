@@ -8778,5 +8778,25 @@
         "Spe": 129,
         "type1": "Drago",
         "type2": "Psico"
-    }
+    },
+        "groudon-primal": {
+            "PS": 100,
+            "Atk": 180,
+            "Def": 160,
+            "SpAtk": 150,
+            "SpDef": 90,
+            "Spe": 90,
+            "type1": "Drago",
+            "type2": "Psico"
+        },
+            "kyogre-primal": {
+                "PS": 97,
+                "Atk": 167,
+                "Def": 97,
+                "SpAtk": 167,
+                "SpDef": 97,
+                "Spe": 129,
+                "type1": "Drago",
+                "type2": "Psico"
+            }
 }
