@@ -5,11 +5,11 @@ import math
 
 
 def hpCalc(base, EVs, IVs):
-    return math.floor(((2*base+IVs+math.floor(int(EVs)/4))*100)/100)+100+10
+    return int(((2*base+IVs+int(int(EVs)/4))*100)/100)+100+10
 
 
 def statCalc(base, EVs, IVs, boost):
-    return math.floor((math.floor(((2*base+IVs+math.floor(int(EVs)/4))*100)/100)+5)*boost)
+    return int(((((2*base+IVs+int(int(EVs)/4))*100)/100)+5)*boost)
 
 
 def natureCalc(nature, stat):
@@ -73,8 +73,11 @@ stats = ["HP","Atk", "Def", "SpAtk", "SpDef", "Spe"]
 for i in range(6):
     for k in stats:
         pok[i][k] = '0'
-
-tlis, nome = [], ''
+i=0
+tlis, nome, tempIVs1, tempIVs2 = [], '', [], []
+for opopo in range(6):
+    tempIVs1.append('')
+    tempIVs2.append('')
 print("Hi"+nome+"!"+" paste here yout teamlist! \n")
 while True:  # Getting multiline input
     line = input()
@@ -82,19 +85,30 @@ while True:  # Getting multiline input
         if line.find("Shiny:") > -1:
             line = input()
             tlis.append(line)
+            i += 1
         elif line.find("Level") > -1:
             line = input()
             tlis.append(line)
+            i += 1
         elif line.find("IVs:") > -1:
+            templine = line.split("IVs: ")[1]
+            tempIVs1.append(re.sub("[^A-Za-z ]", '',templine))
+            tempIVs2.append(re.sub("[^0-9 ]",'', templine))
+            for k in range(len(tempIVs1[int(i/8)])): # non salva niente nell'array pok risolvere
+                actstat = tempIVs1[int(i/8)].split(" ")[k]
+                actva = tempIVs2[int(i/8)].split(" ")][k]
+                pok[int(i/8)][actstat+"IV"] = actval
             line = input()
             tlis.append(line)
-            modIv = True
+            i += 1
         else:
             tlis.append(line)
+            i += 1
     else:
         line = input()
         if line:
             tlis.append(line)
+            i += 1
         else:
             break
 
@@ -130,9 +144,34 @@ for i in range(2):
     for k in range(3):
         if i==0:
             draw.text((245+i*825,390+k*492),pok[k]["Name"],black,font=font)
+            draw.text((245+i*825,459+k*492),pok[k]["Nature"],black,font=font)
+            draw.text((245+i*825,514+k*492),pok[k]["Ability"],black,font=font)
+            draw.text((245+i*825,568+k*492),pok[k]["Item"],black,font=font)
+            draw.text((245+i*825,623+k*492),pok[k]["Move1"],black,font=font)
+            draw.text((245+i*825,677+k*492),pok[k]["Move2"],black,font=font)
+            draw.text((245+i*825,731+k*492),pok[k]["Move3"],black,font=font)
+            draw.text((245+i*825,784+k*492),pok[k]["Move4"],black,font=font)
+            draw.text((650+i*825,459+k*492),"100",black,font=font)
+            draw.text((650+i*825,514+k*492),str(pok[k]["HP"]),black,font=font)
+            draw.text((650+i*825,568+k*492),str(pok[k]["Atk"]),black,font=font)
+            draw.text((650+i*825, 623+k*492), str(pok[k]["Def"]), black, font=font)
+            draw.text((650+i*825,677+k*492),str(pok[k]["SpAtk"]),black,font=font)
+            draw.text((650+i*825,731+k*492),str(pok[k]["SpDef"]),black,font=font)
+            draw.text((650+i*825,784+k*492),str(pok[k]["Spe"]),black,font=font)
         if i==1:
             draw.text((245+i*825,390+k*492),pok[k+3]["Name"],black,font=font)
-#245 390
-#245 882
-#1070
-image.save('prova.jpg')
+            draw.text((245+i*825,459+k*492),pok[k+3]["Nature"],black,font=font)
+            draw.text((245+i*825,514+k*492),pok[k+3]["Ability"],black,font=font)
+            draw.text((245+i*825,568+k*492),pok[k+3]["Item"],black,font=font)
+            draw.text((245+i*825,623+k*492),pok[k+3]["Move1"],black,font=font)
+            draw.text((245+i*825,677+k*492),pok[k+3]["Move2"],black,font=font)
+            draw.text((245+i*825,731+k*492),pok[k+3]["Move3"],black,font=font)
+            draw.text((245+i*825,784+k*492),pok[k+3]["Move4"],black,font=font)
+            draw.text((650+i*825, 459+k*492), "100", black, font=font)
+            draw.text((650+i*825, 514+k*492), str(pok[k+3]["HP"]), black, font=font)
+            draw.text((650+i*825, 568+k*492), str(pok[k+3]["Atk"]), black, font=font)
+            draw.text((650+i*825, 623+k*492), str(pok[k+3]["Def"]), black, font=font)
+            draw.text((650+i*825, 677+k*492),str(pok[k+3]["SpAtk"]), black, font=font)
+            draw.text((650+i*825, 731+k*492),str(pok[k+3]["SpDef"]), black, font=font)
+            draw.text((650+i*825, 784+k*492), str(pok[k+3]["Spe"]), black, font=font)
+image.save('list.jpg')
