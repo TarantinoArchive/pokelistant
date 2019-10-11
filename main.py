@@ -16,7 +16,7 @@ def natureCalc(nature, stat):
     natures = {
         "Boosting": {
             "Atk": {
-                "Lonely", "Adamant", "Naugthy", "Brave"
+                "Lonely", "Adamant", "Naughty", "Brave"
             },
             "Def": {
                 "Bold", "Impish", "Lash", "Relaxed"
@@ -43,7 +43,7 @@ def natureCalc(nature, stat):
                 "Adamant", "Impish", "Careful", "Jolly"
             },
             "SpDef": {
-                "Naugthy", "Lax", "Rash", "Naive"
+                "Naughty", "Lax", "Rash", "Naive"
             },
             "Spe": {
                 "Brave", "Relaxed", "Quiet", "Sassy"
@@ -69,9 +69,12 @@ black = 'rgb(0, 0, 0)'  # Setting text color
 pok = {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}}  # Declaring
 stat = []
 val = []
+ivstats = ["AtkIV", "DefIV", "SpAtkIV", "SpDefIV", "SpeIv"]
 stats = ["HP","Atk", "Def", "SpAtk", "SpDef", "Spe"]
 for i in range(6):
     for k in stats:
+        pok[i][k] = '0'
+    for k in ivstats:
         pok[i][k] = '0'
 i=0
 tlis, nome, tempIVs1, tempIVs2 = [], '', [], []
@@ -92,12 +95,13 @@ while True:  # Getting multiline input
             i += 1
         elif line.find("IVs:") > -1:
             templine = line.split("IVs: ")[1]
-            tempIVs1.append(re.sub("[^A-Za-z ]", '',templine))
+            tempIVs1.append(re.sub("[^A-Za-z ]", '',templine)[1:])
             tempIVs2.append(re.sub("[^0-9 ]",'', templine))
-            for k in range(len(tempIVs1[int(i/8)])): # non salva niente nell'array pok risolvere
-                actstat = tempIVs1[int(i/8)].split(" ")[k]
-                actva = tempIVs2[int(i/8)].split(" ")][k]
-                pok[int(i/8)][actstat+"IV"] = actval
+            for j in range(len(tempIVs1)):
+                for k in range(len(tempIVs1[j])-1): # non salva niente nell'array pok risolvere
+                    actstat = tempIVs1[j].split(" ")[k]
+                    actva = tempIVs2[j].split(" ")[k]
+                    pok[int(i/8)][actstat+"IV"] = actva
             line = input()
             tlis.append(line)
             i += 1
@@ -136,9 +140,9 @@ for i in range(6):
 for i in range(6):
     for k in stats:
         if k=="HP":
-            pok[i][k] = hpCalc(pokemon[pok[i]["Name"].lower()]["PS"], pok[i][k], 31)
+            pok[i][k] = hpCalc(pokemon[pok[i]["Name"].lower()]["PS"], pok[i][k], pok[i][k+"IV"])
         else:
-            pok[i][k] = statCalc(pokemon[pok[i]["Name"].lower()][k], pok[i][k], 31, natureCalc(pok[i]["Nature"],k))
+            pok[i][k] = statCalc(pokemon[pok[i]["Name"].lower()][k], pok[i][k], pok[i][k+"IV"], natureCalc(pok[i]["Nature"],k))
 
 for i in range(2):
     for k in range(3):
