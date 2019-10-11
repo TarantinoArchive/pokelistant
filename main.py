@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#-*- coding: latin-1 -*-
+
 from PIL import Image, ImageDraw, ImageFont
 import re
 import json
