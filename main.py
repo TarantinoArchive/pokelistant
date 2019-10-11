@@ -69,13 +69,13 @@ black = 'rgb(0, 0, 0)'  # Setting text color
 pok = {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}}  # Declaring
 stat = []
 val = []
-ivstats = ["AtkIV", "DefIV", "SpAtkIV", "SpDefIV", "SpeIv"]
+ivstats = ["HPIV","AtkIV", "DefIV", "SpAtkIV", "SpDefIV", "SpeIV"]
 stats = ["HP","Atk", "Def", "SpAtk", "SpDef", "Spe"]
 for i in range(6):
     for k in stats:
         pok[i][k] = '0'
     for k in ivstats:
-        pok[i][k] = '0'
+        pok[i][k] = '31'
 i=0
 tlis, nome, tempIVs1, tempIVs2 = [], '', [], []
 for opopo in range(6):
@@ -98,7 +98,7 @@ while True:  # Getting multiline input
             tempIVs1.append(re.sub("[^A-Za-z ]", '',templine)[1:])
             tempIVs2.append(re.sub("[^0-9 ]",'', templine))
             for j in range(len(tempIVs1)):
-                for k in range(len(tempIVs1[j])-1): # non salva niente nell'array pok risolvere
+                for k in range(len(tempIVs1[j].split(" "))-1): # non salva niente nell'array pok risolvere
                     actstat = tempIVs1[j].split(" ")[k]
                     actva = tempIVs2[j].split(" ")[k]
                     pok[int(i/8)][actstat+"IV"] = actva
@@ -140,9 +140,9 @@ for i in range(6):
 for i in range(6):
     for k in stats:
         if k=="HP":
-            pok[i][k] = hpCalc(pokemon[pok[i]["Name"].lower()]["PS"], pok[i][k], pok[i][k+"IV"])
+            pok[i][k] = hpCalc(pokemon[pok[i]["Name"].lower()]["PS"], pok[i][k], int(pok[i][k+"IV"]))
         else:
-            pok[i][k] = statCalc(pokemon[pok[i]["Name"].lower()][k], pok[i][k], pok[i][k+"IV"], natureCalc(pok[i]["Nature"],k))
+            pok[i][k] = statCalc(pokemon[pok[i]["Name"].lower()][k], pok[i][k], int(pok[i][k+"IV"]), natureCalc(pok[i]["Nature"],k))
 
 for i in range(2):
     for k in range(3):
