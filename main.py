@@ -10,10 +10,8 @@ import math
 def hpCalc(base, EVs, IVs):
     return int(((2*base+IVs+int(int(EVs)/4))*100)/100)+100+10
 
-
 def statCalc(base, EVs, IVs, boost):
     return int(((((2*base+IVs+int(int(EVs)/4))*100)/100)+5)*boost)
-
 
 def natureCalc(nature, stat):
     natures = {
@@ -88,7 +86,7 @@ print("Hi"+nome+"!"+" paste here yout teamlist! \n")
 while True:  # Getting multiline input
     line = input()
     if line:
-        if line.find("Shiny:") > -1:
+        if line.find("Shiny") > -1:
             line = input()
             tlis.append(line)
             i += 1
@@ -118,6 +116,11 @@ while True:  # Getting multiline input
             i += 1
         else:
             break
+for i in range(6):
+    if "Shiny: Yes  " in tlis:
+        tlis.remove("Shiny: Yes  ")
+    else:
+        break
 
 # Setting Pokémon information
 for i in range(6):
@@ -125,6 +128,7 @@ for i in range(6):
     pok[i]["Item"] = tlis[i*8].split(' @ ')[1]
     pok[i]['Ability'] = tlis[i*8+1].split('Ability: ')[1]
     pok[i]["Nature"] = tlis[i*8+3].split(" Nature")[0]
+    sp = tlis[i*8+4].split("- ")
     pok[i]["Move1"] = tlis[i*8+4].split("- ")[1]
     pok[i]["Move2"] = tlis[i*8+5].split("- ")[1]
     pok[i]["Move3"] = tlis[i*8+6].split("- ")[1]
