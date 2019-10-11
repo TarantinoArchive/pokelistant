@@ -21,10 +21,10 @@ def natureCalc(nature, stat):
             "Def": {
                 "Bold", "Impish", "Lash", "Relaxed"
             },
-            "SpAtk": {
+            "SpA": {
                 "Modest", "Mild", "Rash", "Quiet"
             },
-            "SpDef": {
+            "SpD": {
                 "Calm", "Gentle", "Careful", "Sassy"
             },
             "Spe": {
@@ -39,10 +39,10 @@ def natureCalc(nature, stat):
             "Def": {
                 "Lonely", "Mild", "Gentle", "Hasty"
             },
-            "SpAtk": {
+            "SpA": {
                 "Adamant", "Impish", "Careful", "Jolly"
             },
-            "SpDef": {
+            "SpD": {
                 "Naughty", "Lax", "Rash", "Naive"
             },
             "Spe": {
@@ -69,8 +69,8 @@ black = 'rgb(0, 0, 0)'  # Setting text color
 pok = {0: {}, 1: {}, 2: {}, 3: {}, 4: {}, 5: {}}  # Declaring
 stat = []
 val = []
-ivstats = ["HPIV","AtkIV", "DefIV", "SpAtkIV", "SpDefIV", "SpeIV"]
-stats = ["HP","Atk", "Def", "SpAtk", "SpDef", "Spe"]
+ivstats = ["HPIV","AtkIV", "DefIV", "SpAIV", "SpDIV", "SpeIV"]
+stats = ["HP","Atk", "Def", "SpA", "SpD", "Spe"]
 for i in range(6):
     for k in stats:
         pok[i][k] = '0'
@@ -133,7 +133,7 @@ for i in range(6):
     stat.append(re.sub("[^A-Za-z ]", '', tlis[i*8+2])[5:])
     val.append(re.sub("[^0-9 ]", '', tlis[i*8+2])[1:])
 for i in range(6):
-    for k in range(6):
+    for k in range(len(stat[i].split(' '))):
         pok[i][stat[i].split(' ')[k]] = val[i].split(' ')[k]
 
 # Calculating stats
@@ -159,8 +159,8 @@ for i in range(2):
             draw.text((650+i*825,514+k*492),str(pok[k]["HP"]),black,font=font)
             draw.text((650+i*825,568+k*492),str(pok[k]["Atk"]),black,font=font)
             draw.text((650+i*825, 623+k*492), str(pok[k]["Def"]), black, font=font)
-            draw.text((650+i*825,677+k*492),str(pok[k]["SpAtk"]),black,font=font)
-            draw.text((650+i*825,731+k*492),str(pok[k]["SpDef"]),black,font=font)
+            draw.text((650+i*825,677+k*492),str(pok[k]["SpA"]),black,font=font)
+            draw.text((650+i*825,731+k*492),str(pok[k]["SpD"]),black,font=font)
             draw.text((650+i*825,784+k*492),str(pok[k]["Spe"]),black,font=font)
         if i==1:
             draw.text((245+i*825,390+k*492),pok[k+3]["Name"],black,font=font)
@@ -175,7 +175,7 @@ for i in range(2):
             draw.text((650+i*825, 514+k*492), str(pok[k+3]["HP"]), black, font=font)
             draw.text((650+i*825, 568+k*492), str(pok[k+3]["Atk"]), black, font=font)
             draw.text((650+i*825, 623+k*492), str(pok[k+3]["Def"]), black, font=font)
-            draw.text((650+i*825, 677+k*492),str(pok[k+3]["SpAtk"]), black, font=font)
-            draw.text((650+i*825, 731+k*492),str(pok[k+3]["SpDef"]), black, font=font)
+            draw.text((650+i*825, 677+k*492),str(pok[k+3]["SpA"]), black, font=font)
+            draw.text((650+i*825, 731+k*492),str(pok[k+3]["SpD"]), black, font=font)
             draw.text((650+i*825, 784+k*492), str(pok[k+3]["Spe"]), black, font=font)
 image.save('list.jpg')
